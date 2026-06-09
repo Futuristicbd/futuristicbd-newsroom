@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>FuturisticBD Newsroom · Daily Marketing Intelligence</title>
+  <meta name="description" content="Daily curated news for Bangladesh's marketing leaders. Industry, marketing, promotions & trends — powered by FuturisticBD.">
+  <meta property="og:title" content="FuturisticBD Newsroom">
+  <meta property="og:description" content="Daily marketing & industry intelligence for Bangladesh's business leaders.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&family=Space+Grotesk:wght@500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root{--bg:#070b14;--bg2:#0d1421;--card:#0f1824;--card-h:#141f2e;--border:#1a2535;--border-a:#253650;--cyan:#00d4ff;--purple:#8b5cf6;--text:#e2e8f0;--sub:#94a3b8;--muted:#4a5568;--green:#22c55e;--blue:#3b82f6;--gold:#f59e0b;--violet:#a855f7;--bdgreen:#059669;--radius:12px}
+    *,*::before,*::after{margin:0;padding:0;box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{font-family:'Inter',system-ui,sans-serif;background:var(--bg);color:var(--text);min-height:100vh}
+    .ticker{background:linear-gradient(90deg,#00d4ff0d,#8b5cf60d);border-bottom:1px solid var(--border);padding:7px 0;overflow:hidden}
+    .ticker-inner{display:flex;align-items:center;padding:0 16px;overflow:hidden}
+    .ticker-tag{background:var(--cyan);color:#000;font-size:10px;font-weight:800;padding:3px 10px;border-radius:3px;letter-spacing:1.5px;flex-shrink:0;margin-right:12px}
+    .ticker-scroll{overflow:hidden;flex:1}
+    .ticker-track{display:flex;gap:48px;white-space:nowrap;animation:scroll 40s linear infinite}
+    .ticker-track:hover{animation-play-state:paused}
+    .ticker-item{font-size:12.5px;color:var(--sub)}
+    .ticker-item .dot{color:var(--cyan);margin-right:8px}
+    @keyframes scroll{0%{transform:translateX(0)}100%{transform:translateX(-50%)}}
+    .header{background:var(--bg2);border-bottom:1px solid var(--border);padding:16px 24px;position:sticky;top:0;z-index:100;backdrop-filter:blur(20px)}
+    .header-inner{max-width:1440px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;gap:16px;flex-wrap:wrap}
+    .logo{display:flex;align-items:center;gap:12px}
+    .logo-mark{width:42px;height:42px;background:linear-gradient(135deg,var(--cyan),var(--purple));border-radius:10px;display:flex;align-items:center;justify-content:center;font-family:'Space Grotesk',sans-serif;font-weight:900;font-size:22px;color:#000;flex-shrink:0}
+    .logo-name{font-family:'Space Grotesk',sans-serif}
+    .logo-name h1{font-size:19px;font-weight:800;background:linear-gradient(90deg,var(--cyan),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+    .logo-name p{font-size:10.5px;color:var(--muted);letter-spacing:.8px;text-transform:uppercase;margin-top:1px}
+    .header-right{display:flex;align-items:center;gap:20px}
+    .live-pill{display:flex;align-items:center;gap:7px;font-size:12px;color:var(--sub)}
+    .live-dot{width:7px;height:7px;background:var(--green);border-radius:50%;animation:blink 2s ease-in-out infinite}
+    @keyframes blink{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.4;transform:scale(.75)}}
+    #last-updated{font-size:11.5px;color:var(--muted)}
+    main{max-width:1440px;margin:0 auto;padding:24px}
+    .stats{display:grid;grid-template-columns:repeat(5,1fr);gap:12px;margin-bottom:24px}
+    @media(max-width:900px){.stats{grid-template-columns:repeat(3,1fr)}}
+    @media(max-width:580px){.stats{grid-template-columns:repeat(2,1fr)}}
+    .stat{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:14px 16px;display:flex;align-items:center;gap:12px}
+    .stat-ico{font-size:22px;flex-shrink:0}
+    .stat-val{font-size:24px;font-weight:800;font-family:'Space Grotesk',sans-serif;line-height:1}
+    .stat-lbl{font-size:11px;color:var(--muted);margin-top:3px}
+    .controls{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:16px;margin-bottom:18px;display:flex;flex-direction:column;gap:12px}
+    .search-wrap{position:relative}
+    .search-wrap input{width:100%;background:var(--bg);border:1px solid var(--border);border-radius:8px;padding:10px 16px 10px 42px;color:var(--text);font-size:14px;font-family:inherit;outline:none;transition:border-color .2s}
+    .search-wrap input:focus{border-color:var(--cyan)}
+    .search-wrap input::placeholder{color:var(--muted)}
+    .search-ico{position:absolute;left:14px;top:50%;transform:translateY(-50%);font-size:15px;pointer-events:none}
+    .filter-row{display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+    .filter-label{font-size:10.5px;font-weight:700;letter-spacing:.8px;text-transform:uppercase;color:var(--muted);flex-shrink:0}
+    .pill{padding:6px 14px;border-radius:100px;font-size:13px;font-weight:500;border:1px solid var(--border);background:transparent;color:var(--sub);cursor:pointer;transition:all .15s;font-family:inherit;line-height:1}
+    .pill:hover{border-color:var(--border-a);color:var(--text)}
+    .pill.on{font-weight:700}
+    .pill.on[data-val="all"]{background:var(--cyan);border-color:var(--cyan);color:#000}
+    .pill.on[data-val="bangladesh"]{background:var(--bdgreen);border-color:var(--bdgreen);color:#fff}
+    .pill.on[data-val="global"]{background:var(--blue);border-color:var(--blue);color:#fff}
+    .pill.on[data-val="industry"]{background:var(--green);border-color:var(--green);color:#000}
+    .pill.on[data-val="marketing"]{background:var(--blue);border-color:var(--blue);color:#fff}
+    .pill.on[data-val="promotion"]{background:var(--gold);border-color:var(--gold);color:#000}
+    .pill.on[data-val="trend"]{background:var(--violet);border-color:var(--violet);color:#fff}
+    .date-bar{display:flex;align-items:center;gap:8px;flex-wrap:wrap;margin-bottom:20px}
+    .dtab{padding:7px 16px;border-radius:8px;font-size:13px;font-weight:500;border:1px solid var(--border);background:var(--card);color:var(--sub);cursor:pointer;transition:all .15s;font-family:inherit;display:flex;align-items:center;gap:6px}
+    .dtab:hover{border-color:var(--border-a);color:var(--text)}
+    .dtab.on{border-color:var(--cyan);color:var(--cyan);font-weight:700;background:linear-gradient(135deg,#00d4ff10,#8b5cf610)}
+    .dtab .cnt{background:var(--bg);border-radius:100px;padding:1px 7px;font-size:11px;font-weight:600}
+    .result-bar{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}
+    .result-bar .info{font-size:13px;color:var(--muted)}
+    .result-bar .info strong{color:var(--text)}
+    .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+    @media(max-width:1100px){.grid{grid-template-columns:repeat(2,1fr)}}
+    @media(max-width:660px){.grid{grid-template-columns:1fr}}
+    .card{background:var(--card);border:1px solid var(--border);border-radius:var(--radius);padding:18px;display:flex;flex-direction:column;gap:11px;transition:all .2s;position:relative;overflow:hidden}
+    .card:hover{background:var(--card-h);border-color:var(--border-a);transform:translateY(-2px);box-shadow:0 8px 32px rgba(0,0,0,.35)}
+    .card.promo{border-color:#f59e0b55;background:linear-gradient(160deg,var(--card),#1a130000)}
+    .card.promo::before{content:'';position:absolute;top:0;left:0;right:0;height:2px;background:linear-gradient(90deg,var(--gold),#ff6b35)}
+    .card-top{display:flex;justify-content:space-between;align-items:flex-start;gap:8px}
+    .badges{display:flex;gap:5px;flex-wrap:wrap}
+    .badge{padding:2px 9px;border-radius:100px;font-size:11px;font-weight:700;line-height:1.6}
+    .b-industry{background:#22c55e18;color:#22c55e}
+    .b-marketing{background:#3b82f618;color:#60a5fa}
+    .b-promotion{background:#f59e0b22;color:#f59e0b}
+    .b-trend{background:#a855f718;color:#a855f7}
+    .b-bd{background:#05966920;color:#34d399}
+    .b-global{background:#2563eb18;color:#60a5fa}
+    .card-date{font-size:11px;color:var(--muted);white-space:nowrap;flex-shrink:0}
+    .card-headline{font-family:'Space Grotesk',sans-serif;font-size:15px;font-weight:700;color:var(--text);line-height:1.4}
+    .card-headline.promo-h{color:var(--gold)}
+    .card-summary{font-size:13px;color:var(--sub);line-height:1.65;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+    .congrats{background:#f59e0b14;border:1px solid #f59e0b30;border-radius:8px;padding:9px 12px;font-size:12px;color:var(--gold);line-height:1.5}
+    .card-foot{display:flex;align-items:center;justify-content:space-between;margin-top:auto}
+    .src-link{display:flex;align-items:center;gap:5px;font-size:12px;color:var(--muted);text-decoration:none;transition:color .15s}
+    .src-link:hover{color:var(--cyan)}
+    .empty{grid-column:1/-1;text-align:center;padding:80px 20px}
+    .empty .ico{font-size:52px;margin-bottom:16px}
+    .empty h3{font-size:18px;color:var(--sub);margin-bottom:8px}
+    .empty p{font-size:14px;color:var(--muted)}
+    .spinner-wrap{grid-column:1/-1;display:flex;justify-content:center;padding:80px}
+    .spin{width:44px;height:44px;border:3px solid var(--border);border-top-color:var(--cyan);border-radius:50%;animation:rot .8s linear infinite}
+    @keyframes rot{to{transform:rotate(360deg)}}
+    #btt{position:fixed;bottom:24px;right:24px;background:var(--cyan);color:#000;border:none;border-radius:50%;width:44px;height:44px;font-size:18px;font-weight:800;cursor:pointer;display:none;align-items:center;justify-content:center;box-shadow:0 4px 20px #00d4ff40;transition:all .2s;z-index:999}
+    #btt.show{display:flex}
+    #btt:hover{transform:translateY(-3px)}
+    footer{background:var(--bg2);border-top:1px solid var(--border);padding:28px 24px;margin-top:60px;text-align:center}
+    footer p{font-size:13px;color:var(--muted);line-height:2.2}
+    footer a{color:var(--cyan);text-decoration:none}
+    footer .brand{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:16px;background:linear-gradient(90deg,var(--cyan),var(--purple));-webkit-background-clip:text;-webkit-text-fill-color:transparent}
+    footer .divider{color:var(--border);margin:0 8px}
+    @media(max-width:640px){main{padding:16px}.header{padding:14px 16px}.header-right{flex-direction:column;align-items:flex-start;gap:4px}}
+  </style>
+</head>
+<body>
+<div class="ticker"><div class="ticker-inner"><div class="ticker-tag">LIVE</div><div class="ticker-scroll"><div class="ticker-track" id="ticker"></div></div></div></div>
+<header class="header">
+  <div class="header-inner">
+    <div class="logo">
+      <div class="logo-mark">F</div>
+      <div class="logo-name"><h1>FuturisticBD Newsroom</h1><p>Daily Intelligence &middot; Bangladesh &amp; Global Marketing</p></div>
+    </div>
+    <div class="header-right">
+      <div class="live-pill"><div class="live-dot"></div><span>Updated daily &middot; 10:00 AM BST</span></div>
+      <div id="last-updated">Loading&hellip;</div>
+    </div>
+  </div>
+</header>
+<main>
+  <div class="stats" id="stats">
+    <div class="stat"><span class="stat-ico">&#128240;</span><div><div class="stat-val" id="s-total">&mdash;</div><div class="stat-lbl">Today's Stories</div></div></div>
+    <div class="stat"><span class="stat-ico">&#127987;&#65039;</span><div><div class="stat-val" id="s-bd">&mdash;</div><div class="stat-lbl">Bangladesh</div></div></div>
+    <div class="stat"><span class="stat-ico">&#127757;</span><div><div class="stat-val" id="s-gl">&mdash;</div><div class="stat-lbl">Global</div></div></div>
+    <div class="stat"><span class="stat-ico">&#127881;</span><div><div class="stat-val" id="s-pr">&mdash;</div><div class="stat-lbl">Promotions</div></div></div>
+    <div class="stat"><span class="stat-ico">&#128197;</span><div><div class="stat-val" id="s-arc">&mdash;</div><div class="stat-lbl">Archive Days</div></div></div>
+  </div>
+  <div class="controls">
+    <div class="search-wrap"><span class="search-ico">&#128269;</span><input id="search" type="text" placeholder="Search stories, people, companies, topics&hellip;" oninput="doSearch(this.value)"></div>
+    <div class="filter-row">
+      <span class="filter-label">Region</span>
+      <button class="pill on" data-group="region" data-val="all" onclick="setFilter('region','all',this)">All Regions</button>
+      <button class="pill" data-group="region" data-val="bangladesh" onclick="setFilter('region','bangladesh',this)">&#127987;&#65039; Bangladesh</button>
+      <button class="pill" data-group="region" data-val="global" onclick="setFilter('region','global',this)">&#127757; Global</button>
+    </div>
+    <div class="filter-row">
+      <span class="filter-label">Category</span>
+      <button class="pill on" data-group="category" data-val="all" onclick="setFilter('category','all',this)">All Categories</button>
+      <button class="pill" data-group="category" data-val="industry" onclick="setFilter('category','industry',this)">&#127981; Industry</button>
+      <button class="pill" data-group="category" data-val="marketing" onclick="setFilter('category','marketing',this)">&#128226; Marketing</button>
+      <button class="pill" data-group="category" data-val="promotion" onclick="setFilter('category','promotion',this)">&#127881; Promotions</button>
+      <button class="pill" data-group="category" data-val="trend" onclick="setFilter('category','trend',this)">&#128293; Trends</button>
+    </div>
+  </div>
+  <div class="date-bar" id="date-bar"></div>
+  <div class="result-bar"><div class="info" id="result-info"></div></div>
+  <div class="grid" id="grid"><div class="spinner-wrap"><div class="spin"></div></div></div>
+</main>
+<button id="btt" onclick="scrollTo({top:0,behavior:'smooth'})">&#8593;</button>
+<footer>
+  <div class="brand">FuturisticBD Newsroom</div>
+  <p>Curated daily intelligence for Bangladesh's marketing &amp; business leaders</p>
+  <p><a href="mailto:contact.futuristicbd@gmail.com">contact.futuristicbd@gmail.com</a><span class="divider">&middot;</span>Refreshed automatically every morning at 10:00 AM BST<span class="divider">&middot;</span>&copy; 2026 FuturisticBD</p>
+</footer>
+<script>
+let DB=[],state={date:null,region:'all',category:'all',q:''};
+async function boot(){try{const r=await fetch('news-data.json?_='+Date.now());const d=await r.json();DB=d.news||[];const dates=uniqDates();state.date=dates[0]||null;document.getElementById('last-updated').textContent='Last updated: '+fmtTs(d.meta.lastUpdated);renderAll()}catch(e){document.getElementById('grid').innerHTML='<div class="empty"><div class="ico">&#9888;&#65039;</div><h3>Unable to load news</h3><p>Please check back shortly.</p></div>'}}
+const uniqDates=()=>[...new Set(DB.map(n=>n.date))].sort((a,b)=>b.localeCompare(a));
+function newsFor(d){return DB.filter(n=>n.date===d)}
+function filtered(){return DB.filter(n=>{if(state.date&&n.date!==state.date)return false;if(state.region!=='all'&&n.region!==state.region)return false;if(state.category!=='all'&&n.category!==state.category)return false;if(state.q){const q=state.q.toLowerCase();return[n.headline,n.summary,n.source||'',...(n.tags||[]),n.promotionPerson||''].some(x=>x.toLowerCase().includes(q))}return true})}
+function fmtDate(d){const today=new Date().toISOString().slice(0,10);const yest=new Date(Date.now()-864e5).toISOString().slice(0,10);if(d===today)return'Today';if(d===yest)return'Yesterday';const dt=new Date(d+'T00:00:00');return dt.toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric'})}
+function fmtTs(iso){try{return new Date(iso).toLocaleString('en-US',{month:'short',day:'numeric',year:'numeric',hour:'numeric',minute:'2-digit',hour12:true})}catch{return iso}}
+function catBadge(c){const m={industry:['b-industry','&#127981; Industry'],marketing:['b-marketing','&#128226; Marketing'],promotion:['b-promotion','&#127881; Promotion'],trend:['b-trend','&#128293; Trend']};const[cls,lbl]=m[c]||['b-industry',c];return`<span class="badge ${cls}">${lbl}</span>`}
+function regBadge(r){return r==='bangladesh'?'<span class="badge b-bd">&#127987;&#65039; BD</span>':'<span class="badge b-global">&#127757; Global</span>'}
+function renderAll(){renderStats();renderDateTabs();renderTicker();renderGrid()}
+function renderStats(){const dates=uniqDates();const d0=dates[0];const today=newsFor(d0);document.getElementById('s-total').textContent=today.length;document.getElementById('s-bd').textContent=today.filter(n=>n.region==='bangladesh').length;document.getElementById('s-gl').textContent=today.filter(n=>n.region==='global').length;document.getElementById('s-pr').textContent=today.filter(n=>n.isPromotion).length;document.getElementById('s-arc').textContent=dates.length}
+function renderDateTabs(){const bar=document.getElementById('date-bar');bar.innerHTML=uniqDates().map(d=>{const cnt=newsFor(d).length;const on=d===state.date?' on':'';return`<button class="dtab${on}" onclick="setDate('${d}')">${fmtDate(d)} <span class="cnt">${cnt}</span></button>`}).join('')}
+function renderTicker(){const items=DB.filter(n=>n.date===uniqDates()[0]).slice(0,10).map(n=>`<span class="ticker-item"><span class="dot">&#9679;</span>${n.isPromotion?'&#127881; ':''}${n.headline}</span>`);const doubled=[...items,...items].join('');document.getElementById('ticker').innerHTML=doubled}
+function renderGrid(){const list=filtered();const info=document.getElementById('result-info');info.innerHTML=`Showing <strong>${list.length}</strong> ${list.length===1?'story':'stories'}${state.q?' for "<strong>'+esc(state.q)+'</strong>"':''}`;const grid=document.getElementById('grid');if(!list.length){grid.innerHTML='<div class="empty"><div class="ico">&#128269;</div><h3>No stories found</h3><p>Try adjusting your filters or search query.</p></div>';return}const sorted=[...list].sort((a,b)=>(b.isPromotion?1:0)-(a.isPromotion?1:0));grid.innerHTML=sorted.map(card).join('')}
+function card(n){const p=n.isPromotion;return`<article class="card${p?' promo':''}"><div class="card-top"><div class="badges">${catBadge(n.category)}${regBadge(n.region)}</div><span class="card-date">${fmtDate(n.date)}</span></div><div class="card-headline${p?' promo-h':''}">${esc(n.headline)}</div><div class="card-summary">${esc(n.summary)}</div>${p&&n.congratsMessage?`<div class="congrats">&#127882; ${esc(n.congratsMessage)}</div>`:''}<div class="card-foot"><a class="src-link" href="${n.sourceUrl}" target="_blank" rel="noopener noreferrer">&#128240; ${esc(n.source)} <span style="font-size:10px">&#8599;</span></a><span style="font-size:11px;color:var(--muted)">${n.tags&&n.tags.length?n.tags.slice(0,2).map(t=>`#${t}`).join(' '):''}</span></div></article>`}
+function setDate(d){state.date=d;renderDateTabs();renderGrid()}
+function setFilter(group,val,btn){state[group]=val;document.querySelectorAll(`[data-group="${group}"]`).forEach(b=>b.classList.remove('on'));btn.classList.add('on');renderGrid()}
+let st;function doSearch(v){clearTimeout(st);st=setTimeout(()=>{state.q=v;renderGrid()},220)}
+window.addEventListener('scroll',()=>{document.getElementById('btt').classList.toggle('show',scrollY>500)});
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;')}
+setInterval(boot,30*60*1000);
+boot();
+</script>
+</body>
+</html>
