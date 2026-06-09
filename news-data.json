@@ -1,173 +1,749 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-06-05T10:00:00+06:00",
-    "totalEntries": 20
+    "lastUpdated": "2026-06-09T10:00:00+06:00",
+    "totalEntries": 40
   },
   "news": [
     {
-      "id": "bd-001-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-001-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh digital ad market grows 10.1% to $3.80 billion in 2026",
+      "summary": "Bangladesh's digital advertising market expanded 10.1% year-on-year to US$3.80 billion in 2026, up from $3.45B in 2025. The broader digital marketing industry is growing 35-40% annually.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital-advertising",
+        "market-growth",
+        "bangladesh"
+      ]
+    },
+    {
+      "id": "bd-002-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Nafeez Imtiaz Karim promoted to AGM, Head of Marketing at Meghna Executive Holdings",
+      "summary": "Meghna Executive Holdings promoted Nafeez Imtiaz Karim to Assistant General Manager and Head of Marketing, recognizing his contributions to the firm's marketing function and brand development initiatives.",
+      "source": "The Daily Corporate",
+      "sourceUrl": "https://en.thedailycorporate.com/nafeez-imtiaz-karim-promoted-to-agm-head-of-marketing-at-meghna-executive-holdings/",
+      "isPromotion": true,
+      "promotionPerson": "Nafeez Imtiaz Karim",
+      "congratsMessage": "Congratulations to Nafeez Imtiaz Karim on becoming AGM & Head of Marketing at Meghna Executive Holdings — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "marketing",
+        "leadership"
+      ]
+    },
+    {
+      "id": "bd-003-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "ICSB appoints Md Shabbirul Alam Chowdhury as Secretary & CEO",
+      "summary": "The Institute of Chartered Secretaries of Bangladesh appointed former Bangladesh Bank Executive Director Md Shabbirul Alam Chowdhury as Secretary and CEO on June 8, 2026, bringing over three decades of financial-sector leadership.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/business/393518",
+      "isPromotion": true,
+      "promotionPerson": "Md Shabbirul Alam Chowdhury",
+      "congratsMessage": "Congratulations to Md Shabbirul Alam Chowdhury on his appointment as Secretary & CEO of ICSB — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "finance"
+      ]
+    },
+    {
+      "id": "bd-004-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Banglalink names Kazi Mahboob Hassan as new CMO",
+      "summary": "Telecom operator Banglalink appointed Kazi Mahboob Hassan as its new Chief Marketing Officer, tasking him with steering the brand's marketing strategy in an increasingly competitive mobile market.",
+      "source": "Dhaka Tribune",
+      "sourceUrl": "https://www.dhakatribune.com/business/396725/banglalink-names-kazi-mahboob-hassan-as-new-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Kazi Mahboob Hassan",
+      "congratsMessage": "Congratulations to Kazi Mahboob Hassan on his appointment as CMO of Banglalink — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "telecom"
+      ]
+    },
+    {
+      "id": "bd-005-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Sajid Mahbub appointed CEO of Bangladesh Brand Forum",
+      "summary": "Bangladesh Brand Forum appointed Sajid Mahbub as its new Chief Executive Officer, positioning him to lead the country's premier branding and marketing knowledge platform.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/business/organisation-news/press-releases/news/sajid-mahbub-has-been-appointed-the-chief-executive-officer-ceo-bangladesh-brand-forum-3616841",
+      "isPromotion": true,
+      "promotionPerson": "Sajid Mahbub",
+      "congratsMessage": "Congratulations to Sajid Mahbub on his appointment as CEO of Bangladesh Brand Forum — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "branding"
+      ]
+    },
+    {
+      "id": "bd-006-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Startup Bangladesh's 36 portfolio firms generate 7,000+ jobs",
+      "summary": "Startup Bangladesh has invested roughly Tk 109 crore across 36 technology-driven startups, generating over 7,000 direct jobs and paying more than Tk 180 crore in taxes — nearly 1.7x the total investment.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/js-session/393938",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "investment",
+        "jobs"
+      ]
+    },
+    {
+      "id": "bd-007-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangla-language video ads outperform English creatives by 34%",
+      "summary": "Bangla-language video content is delivering an average 34% higher engagement and 22% lower cost per result than English-language creatives across consumer campaigns, reshaping local creative strategy.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "video-marketing",
+        "localization",
+        "engagement"
+      ]
+    },
+    {
+      "id": "bd-008-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh's startup ecosystem enters 'sorting' phase in 2026",
+      "summary": "With 2,500+ active startups, 1.5 million jobs and over US$900M raised since 2010, Bangladesh's ecosystem is shifting from hype to performance pressure, with strength in fintech, e-commerce and logistics.",
+      "source": "Mean.ceo",
+      "sourceUrl": "https://blog.mean.ceo/startups-bangladesh-news-june-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "ecosystem",
+        "fintech"
+      ]
+    },
+    {
+      "id": "bd-009-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "Dhaka performance marketer Morshed Parvej Patwary expands global consulting",
+      "summary": "Dhaka-based growth marketer Morshed Parvej Patwary launched a Meta Ads and Google Ads consultancy serving local and international clients with paid-media strategy and retainer-based growth support.",
+      "source": "MarTech Series",
+      "sourceUrl": "https://martechseries.com/sales-marketing/programmatic-buying/bangladesh-performance-marketer-morshed-parvej-patwary-launches-meta-ads-and-google-ads-consultancy-for-global-clients/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "performance-marketing",
+        "consulting",
+        "paid-media"
+      ]
+    },
+    {
+      "id": "bd-010-2026-06-09",
+      "date": "2026-06-09",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh digital marketing workforce tops 50,000, growing 25% a year",
+      "summary": "An estimated 50,000+ people now work in digital marketing roles across Bangladesh, with the talent pool expanding around 25% annually as demand for sophisticated, metrics-driven campaigns rises.",
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "workforce",
+        "digital-marketing",
+        "talent"
+      ]
+    },
+    {
+      "id": "gl-001-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "industry",
+      "headline": "Meta to surpass Google in global ad revenue for the first time",
+      "summary": "eMarketer projects Meta will earn $243.46B in 2026 global ad revenue, edging past Google's $239.54B — the first time Google loses the top spot in roughly two decades. Meta's growth is accelerating to 24.1%.",
+      "source": "Marketing Dive",
+      "sourceUrl": "https://www.marketingdive.com/news/meta-to-surpass-google-in-digital-ad-revenue-for-first-time-emarketer/817384/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "google",
+        "ad-revenue"
+      ]
+    },
+    {
+      "id": "gl-002-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google rebuilds ad stack around agentic AI with 'Ask Advisor'",
+      "summary": "At Google Marketing Live 2026, Google unveiled Ask Advisor — a Gemini-powered interface uniting Google Ads, Analytics, Merchant Center and Marketing Platform into one AI agent handling targeting, bidding and creative.",
+      "source": "Marketing Dive",
+      "sourceUrl": "https://www.marketingdive.com/news/marketing-trends-outlook-2026/810740/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "google",
+        "agentic-ai",
+        "advertising"
+      ]
+    },
+    {
+      "id": "gl-003-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "industry",
+      "headline": "Global experiential marketing to surge 10% to top $150B in 2026",
+      "summary": "Experiential marketing spend grew 8.3% to $138.94B in 2025 and is on pace for 10.3% growth in 2026, fueled by the Winter Olympics, FIFA World Cup and record political media spend across 13 top markets.",
+      "source": "PRWeb",
+      "sourceUrl": "https://www.prweb.com/releases/global-experiential-marketing-grew-8-to-139-billion-in-2025--will-surge-10-in-2026-fueled-by-winter-olympics-world-cup--political-spend-in-13-top-markets-worldwide-302793218.html",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "experiential-marketing",
+        "events",
+        "growth"
+      ]
+    },
+    {
+      "id": "gl-004-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Influencer appoints Jenny Penich as its first global CMO",
+      "summary": "Creator marketing agency Influencer elevated North American President Jenny Penich to its first-ever Global Chief Marketing Officer, unifying global strategy as the creator economy heads toward $500B by 2027.",
+      "source": "Hello Partner",
+      "sourceUrl": "https://hellopartner.com/2026/04/21/influencer-appoints-its-first-cmo-as-industry-is-projected-to-hit-highs-of-500b-in-2027/",
+      "isPromotion": true,
+      "promotionPerson": "Jenny Penich",
+      "congratsMessage": "Congratulations to Jenny Penich on her appointment as global CMO of Influencer — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "creator-economy"
+      ]
+    },
+    {
+      "id": "gl-005-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Hotwire Global names Grant Toups as global CEO",
+      "summary": "Communications and marketing agency Hotwire Global appointed Grant Toups as its new global Chief Executive Officer, marking a notable leadership transition for the international agency.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "isPromotion": true,
+      "promotionPerson": "Grant Toups",
+      "congratsMessage": "Congratulations to Grant Toups on his appointment as global CEO of Hotwire Global — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "agency"
+      ]
+    },
+    {
+      "id": "gl-006-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "trend",
+      "headline": "Cannes Lions 2026 leans into human creativity after AI backlash",
+      "summary": "Cannes Lions returns June 22-26 with a new 'Deconstructed' track and framing that champions human creative authority after two years of AI-generated work and consumer backlash. Oprah Winfrey receives the 2026 LionHeart.",
+      "source": "The Drum",
+      "sourceUrl": "https://www.thedrum.com/news/marketing-leaders-tell-us-the-media-and-consumer-stories-we-missed-last-year",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "cannes-lions",
+        "creativity",
+        "ai"
+      ]
+    },
+    {
+      "id": "gl-007-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "trend",
+      "headline": "Meta opens AI connectors so brands manage ads via external tools",
+      "summary": "Meta's biggest 2026 platform update lets advertisers manage Meta ads through external AI platforms and workflow tools they already use, while Advantage+ delivers stronger automation ROI for creative-rich brands.",
+      "source": "B2 the 7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "ai-connectors",
+        "automation"
+      ]
+    },
+    {
+      "id": "gl-008-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok pushes for a bigger role in real-world events",
+      "summary": "TikTok is expanding its events strategy to capture more real-world activations, while Google adds social profiles to Discover and Meta broadens AI business messaging to automate brand conversations at scale.",
+      "source": "Belmore Digital",
+      "sourceUrl": "https://www.belmoredigital.com/tvfmw/jbs-digital-update/jbs-digital-update-8th-june-2026-20260608",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "tiktok",
+        "events",
+        "social-media"
+      ]
+    },
+    {
+      "id": "gl-009-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "marketing",
+      "headline": "Retail media networks evolve into full performance media channels",
+      "summary": "Retail media is shifting from shelf-adjacent placements to true performance media, while shoppable video and CTV increasingly turn audience attention into direct, measurable action for brands.",
+      "source": "Marketing Dive",
+      "sourceUrl": "https://www.marketingdive.com/news/marketing-trends-outlook-2026/810740/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "retail-media",
+        "ctv",
+        "performance"
+      ]
+    },
+    {
+      "id": "gl-010-2026-06-09",
+      "date": "2026-06-09",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google's May 2026 Core Update rewires AI answer citations",
+      "summary": "Google's May 2026 Core Update is reshaping which content gets cited in AI-generated answers — not just ranked — pushing marketers toward first-party data and authoritative, citation-worthy content.",
+      "source": "Two Octobers",
+      "sourceUrl": "https://twooctobers.com/blog/digital-marketing-updates-june-2026/amp/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "google",
+        "seo",
+        "ai-search"
+      ]
+    },
+    {
+      "id": "bd-001-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "Bangladesh Targets Record $51B in Forex Reserves for FY27",
       "summary": "The government is targeting a record $51.4 billion in foreign currency reserves next fiscal year, contingent on strong remittance inflows and sustained interest rate policy. The target signals growing economic ambition ahead of FY27.",
-      "source": "The Daily Star", "sourceUrl": "https://www.thedailystar.net/business/economy/news/govt-eyes-51b-reserves-fy27-4186996",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["economy", "forex", "government", "finance"]
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/business/economy/news/govt-eyes-51b-reserves-fy27-4186996",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "economy",
+        "forex",
+        "government",
+        "finance"
+      ]
     },
     {
-      "id": "bd-002-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-002-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "Bangladesh Sets Ambitious 6.5% GDP Growth Target for FY27",
       "summary": "The government set a 6.5% GDP growth target for FY27, surpassing IMF, World Bank, and ADB projections of 4–5%. The target reflects optimism around investment recovery and export rebound despite current headwinds.",
-      "source": "The Daily Star", "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/govt-gunning-65pc-growth-next-year-4186106",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["economy", "GDP", "growth", "government"]
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/news/bangladesh/news/govt-gunning-65pc-growth-next-year-4186106",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "economy",
+        "GDP",
+        "growth",
+        "government"
+      ]
     },
     {
-      "id": "bd-003-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-003-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "Bangladesh Economy in Fragile Recovery Amid Persistent High Inflation",
       "summary": "Bangladesh's economy remains in a 'fragile and uneven recovery phase' in 2026, weighed down by inflation, weak private investment, and subdued industrial activity. Government targets sub-8% inflation for the first time in four years in FY2026-27.",
-      "source": "The Hans India", "sourceUrl": "https://www.thehansindia.com/amp/business/bangladesh-economy-remains-fragile-in-q1-2026-over-high-inflation-report-1076262",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["economy", "inflation", "recovery"]
+      "source": "The Hans India",
+      "sourceUrl": "https://www.thehansindia.com/amp/business/bangladesh-economy-remains-fragile-in-q1-2026-over-high-inflation-report-1076262",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "economy",
+        "inflation",
+        "recovery"
+      ]
     },
     {
-      "id": "bd-004-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "marketing",
+      "id": "bd-004-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "marketing",
       "headline": "Bangladesh Digital Ad Market Surges 10.1% to $3.8 Billion in 2026",
       "summary": "Bangladesh's digital advertising market grew 10.1% YoY to $3.80 billion in 2026, driven by 100M+ smartphone users and rising ad spend across FMCG, fintech, and e-commerce. Strong growth signals expanding opportunity for digital agencies.",
-      "source": "Agent Wise X", "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["digital advertising", "market growth", "marketing"]
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital advertising",
+        "market growth",
+        "marketing"
+      ]
     },
     {
-      "id": "bd-005-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "trend",
+      "id": "bd-005-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "trend",
       "headline": "Bangla-Language Video Beats English by 34% Engagement — Key for Campaign Strategy",
       "summary": "Native Bangla-language video creatives are delivering 34% higher engagement rates and 22% lower cost-per-result vs English content. FMCG, education, and e-commerce see the biggest gains — a critical insight for any Bangladesh digital campaign.",
-      "source": "Ngital", "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["video marketing", "Bangla content", "engagement", "creative"]
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "video marketing",
+        "Bangla content",
+        "engagement",
+        "creative"
+      ]
     },
     {
-      "id": "bd-006-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-006-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "Bangladesh's Digital Marketing Workforce Hits 50,000+, Growing 25% Annually",
       "summary": "Bangladesh now employs over 50,000 digital marketing professionals, with the sector growing 25% annually. Surging demand from local brands and international outsourcing clients is fueling rapid talent expansion across the industry.",
-      "source": "Agent Wise X", "sourceUrl": "https://agentwisex.com/social-media-marketing-bangladesh-guide-2026/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["workforce", "talent", "digital marketing", "growth"]
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/social-media-marketing-bangladesh-guide-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "workforce",
+        "talent",
+        "digital marketing",
+        "growth"
+      ]
     },
     {
-      "id": "bd-007-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "promotion",
+      "id": "bd-007-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "promotion",
       "headline": "Md. Rezaul Karim's Tenure as BPDB Chairman Extended for Another Year",
       "summary": "The Government of Bangladesh extended Md. Rezaul Karim's appointment as Bangladesh Power Development Board (BPDB) Chairman for an additional year from June 1, 2026, acknowledging his continued leadership in the national power sector.",
-      "source": "BSS News", "sourceUrl": "https://www.bssnews.net/others/391714",
-      "isPromotion": true, "promotionPerson": "Md. Rezaul Karim",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/others/391714",
+      "isPromotion": true,
+      "promotionPerson": "Md. Rezaul Karim",
       "congratsMessage": "Congratulations to Md. Rezaul Karim on his extended tenure as BPDB Chairman — on behalf of FuturisticBD! 🎊",
-      "tags": ["appointment", "BPDB", "government", "energy"]
+      "tags": [
+        "appointment",
+        "BPDB",
+        "government",
+        "energy"
+      ]
     },
     {
-      "id": "bd-008-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "promotion",
+      "id": "bd-008-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "promotion",
       "headline": "Md. Obaidul Hoque Appointed MD & CEO of Bangladesh Commerce Bank",
       "summary": "With over three decades of banking experience — primarily at Bangladesh Bank — Md. Obaidul Hoque joined Bangladesh Commerce Bank Limited as Managing Director & CEO, bringing deep expertise in financial regulation and institutional strategy.",
-      "source": "Bangladesh Commerce Bank", "sourceUrl": "https://www.bcblbd.com/senior_management",
-      "isPromotion": true, "promotionPerson": "Md. Obaidul Hoque",
+      "source": "Bangladesh Commerce Bank",
+      "sourceUrl": "https://www.bcblbd.com/senior_management",
+      "isPromotion": true,
+      "promotionPerson": "Md. Obaidul Hoque",
       "congratsMessage": "Congratulations to Md. Obaidul Hoque on his appointment as MD & CEO of Bangladesh Commerce Bank — on behalf of FuturisticBD! 🎊",
-      "tags": ["appointment", "banking", "MD", "CEO"]
+      "tags": [
+        "appointment",
+        "banking",
+        "MD",
+        "CEO"
+      ]
     },
     {
-      "id": "bd-009-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-009-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "Bangladesh E-Commerce on Track to More Than Double in Value by 2026",
       "summary": "New research confirms Bangladesh's e-commerce sector is doubling in value, creating enormous opportunities for digital agencies, logistics firms, and payment platforms. The booming online retail market is reshaping consumer behavior across the country.",
-      "source": "TBS News", "sourceUrl": "https://www.tbsnews.net/economy/bangladesh-e-commerce-sales-more-double-2026-research-497134",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["e-commerce", "growth", "retail", "digital economy"]
+      "source": "TBS News",
+      "sourceUrl": "https://www.tbsnews.net/economy/bangladesh-e-commerce-sales-more-double-2026-research-497134",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "e-commerce",
+        "growth",
+        "retail",
+        "digital economy"
+      ]
     },
     {
-      "id": "bd-010-2026-06-05", "date": "2026-06-05", "region": "bangladesh", "category": "industry",
+      "id": "bd-010-2026-06-05",
+      "date": "2026-06-05",
+      "region": "bangladesh",
+      "category": "industry",
       "headline": "BIDS: Bangladesh Has Trillion-Dollar Economy Potential Within a Decade",
       "summary": "BIDS Director General says sustained investment and steady growth could transform Bangladesh into a near trillion-dollar economy within ten years. The optimistic long-term outlook contrasts with current short-term recovery challenges.",
-      "source": "BSS News", "sourceUrl": "https://www.bssnews.net/interview/391594",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["economy", "investment", "growth", "BIDS"]
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/interview/391594",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "economy",
+        "investment",
+        "growth",
+        "BIDS"
+      ]
     },
     {
-      "id": "gl-001-2026-06-05", "date": "2026-06-05", "region": "global", "category": "marketing",
+      "id": "gl-001-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "marketing",
       "headline": "Meta Overtakes Google in Global Ad Revenue for the First Time in History",
       "summary": "Meta is projected to generate $243.46B vs Google's $239.54B in 2026 — a historic first. Reels' explosive growth and AI-driven targeting are driving the shift. This directly impacts where brands should prioritize ad budgets globally.",
-      "source": "B2the7 Marketing Trends", "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["Meta", "Google", "advertising", "revenue", "platforms"]
+      "source": "B2the7 Marketing Trends",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Meta",
+        "Google",
+        "advertising",
+        "revenue",
+        "platforms"
+      ]
     },
     {
-      "id": "gl-002-2026-06-05", "date": "2026-06-05", "region": "global", "category": "marketing",
+      "id": "gl-002-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "marketing",
       "headline": "OpenAI Launches Self-Serve ChatGPT Advertising for All U.S. Businesses",
       "summary": "OpenAI opened ChatGPT advertising to any U.S. business — creating a powerful third ad platform alongside Google and Meta. The move fundamentally expands the digital ad ecosystem and introduces AI-native ad placements at scale.",
-      "source": "Marketing Dive", "sourceUrl": "https://www.marketingdive.com/news/marketing-trends-outlook-2026/810740/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["ChatGPT", "OpenAI", "advertising", "AI ads"]
+      "source": "Marketing Dive",
+      "sourceUrl": "https://www.marketingdive.com/news/marketing-trends-outlook-2026/810740/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ChatGPT",
+        "OpenAI",
+        "advertising",
+        "AI ads"
+      ]
     },
     {
-      "id": "gl-003-2026-06-05", "date": "2026-06-05", "region": "global", "category": "trend",
+      "id": "gl-003-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "trend",
       "headline": "Google's May 2026 Core Update Disrupts AI Search Citations — SEO Must Adapt",
       "summary": "Google's latest Core Update is reshaping how AI overviews cite sources, forcing SEO and content teams to rethink strategy. Sites optimized for traditional SEO may see traffic shifts as AI citations favor authoritative, well-structured content.",
-      "source": "B2the7 Marketing Trends", "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["Google", "SEO", "AI search", "content strategy"]
+      "source": "B2the7 Marketing Trends",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Google",
+        "SEO",
+        "AI search",
+        "content strategy"
+      ]
     },
     {
-      "id": "gl-004-2026-06-05", "date": "2026-06-05", "region": "global", "category": "trend",
+      "id": "gl-004-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "trend",
       "headline": "TikTok Surpasses X in Brand Usage and ROI — Cementing Its Must-Use Status",
       "summary": "TikTok now edges out X (Twitter) in both brand usage and ROI perception among marketers. 54.5% of brands actively use TikTok, with engagement and conversion metrics consistently outperforming X across consumer categories.",
-      "source": "HubSpot State of Marketing 2026", "sourceUrl": "https://blog.hubspot.com/marketing/hubspot-blog-marketing-industry-trends-report",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["TikTok", "X", "social media", "ROI", "platform strategy"]
+      "source": "HubSpot State of Marketing 2026",
+      "sourceUrl": "https://blog.hubspot.com/marketing/hubspot-blog-marketing-industry-trends-report",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "TikTok",
+        "X",
+        "social media",
+        "ROI",
+        "platform strategy"
+      ]
     },
     {
-      "id": "gl-005-2026-06-05", "date": "2026-06-05", "region": "global", "category": "marketing",
+      "id": "gl-005-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "marketing",
       "headline": "90% of Brands Boost AI Marketing Spend — But Only 12% Can Prove Business Impact",
       "summary": "A Comviva report reveals that 90% of organizations increased AI marketing investment, yet only 12% can demonstrate measurable impact. Closing the measurement gap is now the industry's most pressing challenge.",
-      "source": "Media News 4U", "sourceUrl": "https://www.medianews4u.com/90-of-organizations-increase-ai-marketing-spend-but-only-12-can-prove-business-impact-comviva-report/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["AI marketing", "ROI", "measurement", "investment"]
+      "source": "Media News 4U",
+      "sourceUrl": "https://www.medianews4u.com/90-of-organizations-increase-ai-marketing-spend-but-only-12-can-prove-business-impact-comviva-report/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "AI marketing",
+        "ROI",
+        "measurement",
+        "investment"
+      ]
     },
     {
-      "id": "gl-006-2026-06-05", "date": "2026-06-05", "region": "global", "category": "trend",
+      "id": "gl-006-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "trend",
       "headline": "Agentic AI Market to Explode from $8B to $199B by 2034",
       "summary": "The global agentic AI market — autonomous systems that run campaigns, allocate budgets, and optimize performance in real time — is projected to grow from $8B (2025) to up to $199B by 2034. Marketing automation is entering a fundamentally new era.",
-      "source": "AI Apps Blog", "sourceUrl": "https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["agentic AI", "automation", "marketing tech", "AI agents"]
+      "source": "AI Apps Blog",
+      "sourceUrl": "https://www.aiapps.com/blog/ai-news-breakthroughs-launches-trends-must-read/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "agentic AI",
+        "automation",
+        "marketing tech",
+        "AI agents"
+      ]
     },
     {
-      "id": "gl-007-2026-06-05", "date": "2026-06-05", "region": "global", "category": "trend",
+      "id": "gl-007-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "trend",
       "headline": "Google Imagen 3 Now Widely Available — Uses Video as Prompt to Generate Images",
       "summary": "Google's Imagen 3 Nano and Pro models launched publicly with a breakthrough feature: using video files as contextual prompts to generate thumbnails and infographics. Content production workflows for marketing teams are set to be dramatically accelerated.",
-      "source": "Agile Brand Guide", "sourceUrl": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-june-2-2026/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["Google", "Imagen 3", "AI image", "content creation"]
+      "source": "Agile Brand Guide",
+      "sourceUrl": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-june-2-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Google",
+        "Imagen 3",
+        "AI image",
+        "content creation"
+      ]
     },
     {
-      "id": "gl-008-2026-06-05", "date": "2026-06-05", "region": "global", "category": "promotion",
+      "id": "gl-008-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "promotion",
       "headline": "Jessica Jacobi Named Chief Marketing Officer of LA Galaxy",
       "summary": "The LA Galaxy appointed Jessica Jacobi as CMO, bringing 15+ years of premium brand, hospitality, and lifestyle marketing experience. She reports directly to President and COO Tom Braun and will lead fan engagement and revenue growth initiatives.",
-      "source": "LA Galaxy", "sourceUrl": "https://www.lagalaxy.com/news/la-galaxy-appoint-jessica-jacobi-as-chief-marketing-officer",
-      "isPromotion": true, "promotionPerson": "Jessica Jacobi",
+      "source": "LA Galaxy",
+      "sourceUrl": "https://www.lagalaxy.com/news/la-galaxy-appoint-jessica-jacobi-as-chief-marketing-officer",
+      "isPromotion": true,
+      "promotionPerson": "Jessica Jacobi",
       "congratsMessage": "Congratulations to Jessica Jacobi on her appointment as CMO of LA Galaxy — on behalf of FuturisticBD! 🎊",
-      "tags": ["CMO", "appointment", "sports marketing", "LA Galaxy"]
+      "tags": [
+        "CMO",
+        "appointment",
+        "sports marketing",
+        "LA Galaxy"
+      ]
     },
     {
-      "id": "gl-009-2026-06-05", "date": "2026-06-05", "region": "global", "category": "promotion",
+      "id": "gl-009-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "promotion",
       "headline": "Glossier Appoints Nicole Solórzano as Chief Marketing Officer",
       "summary": "Beauty brand Glossier named Nicole Solórzano as CMO as part of a major strategic overhaul. Her mandate includes re-energizing the brand's community-led marketing and expanding global reach across new markets.",
-      "source": "AdWeek", "sourceUrl": "https://www.adweek.com/category/cmo-moves/",
-      "isPromotion": true, "promotionPerson": "Nicole Solórzano",
+      "source": "AdWeek",
+      "sourceUrl": "https://www.adweek.com/category/cmo-moves/",
+      "isPromotion": true,
+      "promotionPerson": "Nicole Solórzano",
       "congratsMessage": "Congratulations to Nicole Solórzano on her appointment as CMO of Glossier — on behalf of FuturisticBD! 🎊",
-      "tags": ["CMO", "appointment", "Glossier", "beauty brand"]
+      "tags": [
+        "CMO",
+        "appointment",
+        "Glossier",
+        "beauty brand"
+      ]
     },
     {
-      "id": "gl-010-2026-06-05", "date": "2026-06-05", "region": "global", "category": "marketing",
+      "id": "gl-010-2026-06-05",
+      "date": "2026-06-05",
+      "region": "global",
+      "category": "marketing",
       "headline": "Coca-Cola Deploys AI for Real-Time Marketing Spend Decisions",
       "summary": "Coca-Cola is using AI to make real-time budget allocation decisions across marketing channels, setting a new benchmark for data-driven brand management. The initiative is being closely watched across the FMCG and advertising industries.",
-      "source": "CFO Dive", "sourceUrl": "https://www.cfodive.com/news/inside-coca-colas-use-ai-marketing-spend-agility/821679/",
-      "isPromotion": false, "promotionPerson": null, "congratsMessage": null,
-      "tags": ["Coca-Cola", "AI", "marketing spend", "brand strategy"]
+      "source": "CFO Dive",
+      "sourceUrl": "https://www.cfodive.com/news/inside-coca-colas-use-ai-marketing-spend-agility/821679/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Coca-Cola",
+        "AI",
+        "marketing spend",
+        "brand strategy"
+      ]
     }
   ]
 }
