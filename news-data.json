@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-06-09T10:00:00+06:00",
-    "totalEntries": 40
+    "lastUpdated": "2026-06-13T10:00:00+06:00",
+    "totalEntries": 60
   },
   "news": [
+    {
+      "id": "bd-001-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh e-commerce on track for $4B GMV, market eyes $10.5B by 2026",
+      "summary": "Bangladesh's e-commerce sector crossed $3B in annual GMV in 2025 and is projected to reach $4B by end-2026, with the wider market forecast at $10.5B and a 17.6% annual growth rate.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/economy/bangladesh-e-commerce-sales-more-double-2026-research-497134",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "e-commerce",
+        "gmv",
+        "growth"
+      ]
+    },
+    {
+      "id": "bd-002-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "ICSB appoints Md Shabbirul Alam Chowdhury as Secretary & CEO",
+      "summary": "The Institute of Chartered Secretaries of Bangladesh named former Bangladesh Bank Executive Director Md Shabbirul Alam Chowdhury as its Secretary and CEO on June 8, bringing over three decades of financial governance leadership.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/business/393518",
+      "isPromotion": true,
+      "promotionPerson": "Md Shabbirul Alam Chowdhury",
+      "congratsMessage": "Congratulations to Md Shabbirul Alam Chowdhury on his appointment as Secretary & CEO of ICSB — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "icsb",
+        "governance"
+      ]
+    },
+    {
+      "id": "bd-003-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Banglalink names Kazi Mahboob Hassan as new CMO",
+      "summary": "Telecom operator Banglalink appointed Kazi Mahboob Hassan as its new Chief Marketing Officer, tasked with driving the brand's digital and customer-growth strategy in a competitive market.",
+      "source": "Dhaka Tribune",
+      "sourceUrl": "https://www.dhakatribune.com/business/396725/banglalink-names-kazi-mahboob-hassan-as-new-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Kazi Mahboob Hassan",
+      "congratsMessage": "Congratulations to Kazi Mahboob Hassan on becoming CMO of Banglalink — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "telecom"
+      ]
+    },
+    {
+      "id": "bd-004-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Sajid Mahbub appointed CEO of Bangladesh Brand Forum",
+      "summary": "Bangladesh Brand Forum named Sajid Mahbub as its new Chief Executive Officer, set to lead the country's premier brand and marketing knowledge platform into its next growth phase.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/business/organisation-news/press-releases/news/sajid-mahbub-has-been-appointed-the-chief-executive-officer-ceo-bangladesh-brand-forum-3616841",
+      "isPromotion": true,
+      "promotionPerson": "Sajid Mahbub",
+      "congratsMessage": "Congratulations to Sajid Mahbub on his appointment as CEO of Bangladesh Brand Forum — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "branding"
+      ]
+    },
+    {
+      "id": "bd-005-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh bets on freelancing and outsourcing in FY2026-27 budget push",
+      "summary": "Unveiling the FY2026-27 budget, the government positioned freelancing and outsourcing as engines toward a trillion-dollar economy by 2034, with tax incentives, startup support and digital-skills programs for youth.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/news-flash/395511",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "budget",
+        "freelancing",
+        "economy"
+      ]
+    },
+    {
+      "id": "bd-006-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh digital marketing industry hits $150-200M, growing 35-40% a year",
+      "summary": "The country's digital marketing industry is now estimated at $150-200M annually, expanding 35-40% per year and employing 50,000+ professionals with headcount rising about 25% annually.",
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital-marketing",
+        "industry-size",
+        "jobs"
+      ]
+    },
+    {
+      "id": "bd-007-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Africa-Bangladesh Business Forum opens in Lagos on June 15-16",
+      "summary": "The Africa-Bangladesh Business Forum convenes in Lagos, Nigeria on June 15-16 to connect Bangladeshi exporters with Nigerian and broader African buyers across trade and investment.",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Africa%E2%80%93Bangladesh_Business_Forum",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "trade",
+        "africa",
+        "exports"
+      ]
+    },
+    {
+      "id": "bd-008-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "Bangladeshi performance marketer expands global Meta and Google Ads consulting",
+      "summary": "Performance marketing specialist Morshed Parvej Patwary expanded his portfolio in early June to serve local and international clients seeking Meta Ads, Google Ads and retainer-based paid-media growth support.",
+      "source": "OpenPR",
+      "sourceUrl": "https://www.openpr.com/news/4537317/bangladesh-based-performance-marketing-expert-morshed-parvej",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "performance-marketing",
+        "paid-media",
+        "consulting"
+      ]
+    },
+    {
+      "id": "bd-009-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh ranks 8th globally for freelancing income with 27% growth",
+      "summary": "Bangladesh sits among the top 10 countries for freelancing income, ranked 8th with a 27% growth rate, underscoring the strength of its digital-services export base.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/news-flash/395511",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "freelancing",
+        "exports",
+        "growth"
+      ]
+    },
+    {
+      "id": "bd-010-2026-06-13",
+      "date": "2026-06-13",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh startup ecosystem matures as bKash, Pathao, Chaldal scale",
+      "summary": "Analysts say Bangladesh's startup scene is maturing in 2026, with bKash, Pathao, Chaldal, Shohoz and digital-health players like Praava showing the friction that typically precedes a market's consolidation.",
+      "source": "Future Startup",
+      "sourceUrl": "https://futurestartup.com/2026/02/23/the-state-of-bangladeshs-digital-economy-at-the-beginning-of-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "ecosystem",
+        "fintech"
+      ]
+    },
+    {
+      "id": "gl-001-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "promotion",
+      "headline": "The Trade Desk names Sarah Gavin Chief Marketing Officer and EVP",
+      "summary": "Ad-tech leader The Trade Desk appointed Sarah Gavin as CMO and Executive Vice President, joining June 15 and reporting directly to CEO and founder Jeff Green.",
+      "source": "StockTitan",
+      "sourceUrl": "https://www.stocktitan.net/news/TTD/the-trade-desk-appoints-sarah-gavin-as-chief-marketing-officer-x42n7enoi49n.html",
+      "isPromotion": true,
+      "promotionPerson": "Sarah Gavin",
+      "congratsMessage": "Congratulations to Sarah Gavin on becoming CMO & EVP of The Trade Desk — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "ad-tech"
+      ]
+    },
+    {
+      "id": "gl-002-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Influencer appoints Jenny Penich as its first Global CMO",
+      "summary": "Creator-marketing agency Influencer named North American President Jenny Penich as its first-ever Global Chief Marketing Officer as the influencer industry heads toward a projected $500B by 2027.",
+      "source": "Hello Partner",
+      "sourceUrl": "https://hellopartner.com/2026/04/21/influencer-appoints-its-first-cmo-as-industry-is-projected-to-hit-highs-of-500b-in-2027/",
+      "isPromotion": true,
+      "promotionPerson": "Jenny Penich",
+      "congratsMessage": "Congratulations to Jenny Penich on becoming the first Global CMO of Influencer — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "creator-economy"
+      ]
+    },
+    {
+      "id": "gl-003-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Effective Measure appoints Lizzie Babarczy as Global CMO",
+      "summary": "Audience-data firm Effective Measure named Lizzie Babarczy as global Chief Marketing Officer, based in Sydney, to kickstart the company's next phase of international expansion.",
+      "source": "Research Live",
+      "sourceUrl": "https://www.research-live.com/article/news/global-cmo-appointment-to-kickstart-effective-measure-expansion/id/4010671",
+      "isPromotion": true,
+      "promotionPerson": "Lizzie Babarczy",
+      "congratsMessage": "Congratulations to Lizzie Babarczy on becoming Global CMO of Effective Measure — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "data"
+      ]
+    },
+    {
+      "id": "gl-004-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Hotwire Global appoints Grant Toups as Global CEO",
+      "summary": "Communications agency Hotwire Global named Grant Toups as its new global Chief Executive Officer to lead the firm's worldwide operations and growth strategy.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "isPromotion": true,
+      "promotionPerson": "Grant Toups",
+      "congratsMessage": "Congratulations to Grant Toups on his appointment as Global CEO of Hotwire Global — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "agency"
+      ]
+    },
+    {
+      "id": "gl-005-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "promotion",
+      "headline": "smart Automobile appoints Kang Yi as new Global CMO",
+      "summary": "EV maker smart Automobile named Kang Yi as its new global Chief Marketing Officer, succeeding Mandy Zhang, to steer brand and demand strategy across international markets.",
+      "source": "Barchart",
+      "sourceUrl": "https://www.barchart.com/story/news/479807/smart-automobile-appoints-kang-yi-as-new-global-cmo-succeeding-mandy-zhang",
+      "isPromotion": true,
+      "promotionPerson": "Kang Yi",
+      "congratsMessage": "Congratulations to Kang Yi on becoming Global CMO of smart Automobile — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "automotive"
+      ]
+    },
+    {
+      "id": "gl-006-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "trend",
+      "headline": "Ad Context Protocol emerges as first open standard for agentic media buying",
+      "summary": "The Ad Context Protocol (AdCP) launched as the industry's first open standard letting AI agents negotiate, plan and transact media directly with publisher agents, with ad-tech firm Affinity joining as a Founding Member.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-9-2026-12016429",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ai",
+        "adcp",
+        "agentic-media"
+      ]
+    },
+    {
+      "id": "gl-007-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "industry",
+      "headline": "Cannes Lions 2026 returns June 22-26 with Oprah Winfrey as LionHeart honoree",
+      "summary": "Cannes Lions returns to the Palais des Festivals June 22-26 with six content streams and a new 'Deconstructed' track for emerging voices; Oprah Winfrey will receive the 2026 Cannes LionHeart award.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-10-2026-12020156",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "cannes-lions",
+        "awards",
+        "events"
+      ]
+    },
+    {
+      "id": "gl-008-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "trend",
+      "headline": "Meta on track to overtake Google in global ad revenue as AI tools go worldwide",
+      "summary": "Meta is on course to surpass Google in global ad revenue for the first time, with its Meta AI business assistant in Ads Manager now in beta for every advertiser and agency worldwide.",
+      "source": "B2the7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "ai",
+        "ad-revenue"
+      ]
+    },
+    {
+      "id": "gl-009-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google rebuilds ads stack around Gemini as AI Mode tops 1 billion users",
+      "summary": "Google is rebuilding its ads stack around Gemini as AI Mode crosses 1 billion monthly active users and AI Overviews reach 2.5 billion, reshaping how search advertising is bought and served.",
+      "source": "Two Octobers",
+      "sourceUrl": "https://twooctobers.com/blog/digital-marketing-updates-june-2026/amp/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "google",
+        "gemini",
+        "ai-search"
+      ]
+    },
+    {
+      "id": "gl-010-2026-06-13",
+      "date": "2026-06-13",
+      "region": "global",
+      "category": "industry",
+      "headline": "EU orders Meta to open WhatsApp Business API to competing AI services",
+      "summary": "The European Commission issued an interim order requiring Meta to allow rival AI services to use WhatsApp's Business API under the same terms that existed before October 2025, a notable antitrust intervention.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-8-2026-12012457",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "regulation",
+        "meta",
+        "whatsapp"
+      ]
+    },
     {
       "id": "bd-001-2026-06-09",
       "date": "2026-06-09",
