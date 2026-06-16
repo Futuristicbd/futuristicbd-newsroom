@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-06-14T17:44:23+06:00",
-    "totalEntries": 80
+    "lastUpdated": "2026-06-16T10:00:00+06:00",
+    "totalEntries": 100
   },
   "news": [
+    {
+      "id": "bd-001-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh digital marketing sector growing 35-40% a year, now worth $150-200M",
+      "summary": "Industry analyses peg Bangladesh's digital marketing market at $150-200M annually in 2026, expanding 35-40% per year, with 50,000+ professionals now in digital roles.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital marketing",
+        "growth",
+        "industry"
+      ]
+    },
+    {
+      "id": "bd-002-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh e-commerce on track for $4B GMV by end of 2026",
+      "summary": "After crossing $3B in annual GMV in 2025, Bangladesh's e-commerce market is projected to reach $4B by end of 2026, led by bKash, Pathao, Chaldal and Daraz.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/economy/bangladesh-e-commerce-sales-more-double-2026-research-497134",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ecommerce",
+        "gmv",
+        "economy"
+      ]
+    },
+    {
+      "id": "bd-003-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Banglalink names Kazi Mahboob Hassan as new Chief Marketing Officer",
+      "summary": "Telecom operator Banglalink has appointed Kazi Mahboob Hassan as its new CMO, tasked with leading brand strategy and digital growth amid intensifying competition.",
+      "source": "Dhaka Tribune",
+      "sourceUrl": "https://www.dhakatribune.com/business/396725/banglalink-names-kazi-mahboob-hassan-as-new-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Kazi Mahboob Hassan",
+      "congratsMessage": "Congratulations to Kazi Mahboob Hassan on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "cmo",
+        "telecom"
+      ]
+    },
+    {
+      "id": "bd-004-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "ICSB appoints Md Shabbirul Alam Chowdhury as Secretary & CEO",
+      "summary": "The Institute of Chartered Secretaries of Bangladesh named Md Shabbirul Alam Chowdhury, a former Bangladesh Bank Executive Director with 30+ years of experience, as Secretary and CEO on June 8.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/business/393518",
+      "isPromotion": true,
+      "promotionPerson": "Md Shabbirul Alam Chowdhury",
+      "congratsMessage": "Congratulations to Md Shabbirul Alam Chowdhury on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "ceo",
+        "governance"
+      ]
+    },
+    {
+      "id": "bd-005-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Sajid Mahbub appointed CEO of Bangladesh Brand Forum",
+      "summary": "Bangladesh Brand Forum, the country's leading marketing knowledge platform, has appointed Sajid Mahbub as its new Chief Executive Officer to drive its next phase of growth.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/business/organisation-news/press-releases/news/sajid-mahbub-has-been-appointed-the-chief-executive-officer-ceo-bangladesh-brand-forum-3616841",
+      "isPromotion": true,
+      "promotionPerson": "Sajid Mahbub",
+      "congratsMessage": "Congratulations to Sajid Mahbub on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "ceo",
+        "marketing"
+      ]
+    },
+    {
+      "id": "bd-006-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh bets on freelancing and outsourcing for trillion-dollar economy goal",
+      "summary": "The government is rolling out tax incentives, startup support and skills programmes, positioning freelancing and outsourcing as engines toward a $1 trillion economy by 2034.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/news-flash/395511",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "economy",
+        "freelancing",
+        "policy"
+      ]
+    },
+    {
+      "id": "bd-007-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "TikTok crosses 46.5M adult users in Bangladesh as Facebook nears 72.5M",
+      "summary": "TikTok now reaches over 46.5M Bangladeshi users aged 18+, while Facebook holds roughly 72.5M active users and YouTube ad reach grew 11.7% year-on-year, reshaping media planning.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "social media",
+        "tiktok",
+        "reach"
+      ]
+    },
+    {
+      "id": "bd-008-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Government appoints new heads to 15 public institutions",
+      "summary": "Bangladesh's administration appointed fresh leadership across 15 institutions as part of a wider governance reset, with implications for regulatory and business sectors.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/news/governance/news/govt-appoints-new-heads-15-institutions-4161046",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "governance",
+        "appointments",
+        "policy"
+      ]
+    },
+    {
+      "id": "bd-009-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "Dhaka to host International Conference on Behavioral Targeting & Digital Advertising",
+      "summary": "The International Conference on Behavioral Targeting and Digital Advertising takes place in Dhaka on June 19-20, 2026, convening marketers around data-driven and AI-led ad strategies.",
+      "source": "ConferenceNext",
+      "sourceUrl": "https://conferencenext.com/conferences/bangladesh/marketing",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "event",
+        "conference",
+        "digital advertising"
+      ]
+    },
+    {
+      "id": "bd-010-2026-06-16",
+      "date": "2026-06-16",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Md Obaidul Hoque joins Bangladesh Commerce Bank as Managing Director & CEO",
+      "summary": "Md Obaidul Hoque has taken charge as Managing Director and CEO of Bangladesh Commerce Bank Limited, bringing extensive banking leadership to the institution.",
+      "source": "Bangladesh Commerce Bank",
+      "sourceUrl": "https://www.bcblbd.com/senior_management",
+      "isPromotion": true,
+      "promotionPerson": "Md Obaidul Hoque",
+      "congratsMessage": "Congratulations to Md Obaidul Hoque on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "md",
+        "banking"
+      ]
+    },
+    {
+      "id": "gl-001-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "industry",
+      "headline": "WPP Media forecasts global ad revenue to grow 8.9% to $1.3 trillion in 2026",
+      "summary": "WPP Media's midyear outlook projects global advertising revenue rising 8.9% to $1.3 trillion, fueled by AI investment and performance-led advertising.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-16-2026-12042725",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ad spend",
+        "forecast",
+        "industry"
+      ]
+    },
+    {
+      "id": "gl-002-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "trend",
+      "headline": "Brands launch World Cup 2026 ad blitz ahead of 6-billion-viewer tournament",
+      "summary": "With FIFA World Cup 2026 underway across the US, Canada and Mexico, brands are rolling out fandom-driven campaigns early for a tournament projected to draw 6 billion viewers over 104 matches.",
+      "source": "Storyboard18",
+      "sourceUrl": "https://www.storyboard18.com/amp/advertising/brands-kick-off-world-cup-2026-ad-race-early-as-global-marketing-blitz-gathers-pace-100887.htm",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "world cup",
+        "campaigns",
+        "sports marketing"
+      ]
+    },
+    {
+      "id": "gl-003-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "marketing",
+      "headline": "Cannes Lions returns June 22-26 with Oprah Winfrey to receive 2026 LionHeart",
+      "summary": "Cannes Lions opens at the Palais des Festivals June 22-26 around six content streams and a new 'Deconstructed' track, with Oprah Winfrey set to receive the 2026 Cannes LionHeart.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-june-16-2026-12042725",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "cannes lions",
+        "awards",
+        "creativity"
+      ]
+    },
+    {
+      "id": "gl-004-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "trend",
+      "headline": "Meta on track to surpass Google in global ad revenue for the first time",
+      "summary": "Industry data suggests Meta is poised to overtake Google in global advertising revenue for the first time, marking a historic shift in the digital ad duopoly.",
+      "source": "SocialBee",
+      "sourceUrl": "https://socialbee.com/blog/facebook-updates/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "google",
+        "ad revenue"
+      ]
+    },
+    {
+      "id": "gl-005-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Influencer appoints Jenny Penich as its first global Chief Marketing Officer",
+      "summary": "Creator marketing agency Influencer elevated Jenny Penich from North American President to its first global CMO, unifying marketing strategy across EMEA and the Middle East.",
+      "source": "Hello Partner",
+      "sourceUrl": "https://hellopartner.com/2026/04/21/influencer-appoints-its-first-cmo-as-industry-is-projected-to-hit-highs-of-500b-in-2027/",
+      "isPromotion": true,
+      "promotionPerson": "Jenny Penich",
+      "congratsMessage": "Congratulations to Jenny Penich on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "cmo",
+        "influencer marketing"
+      ]
+    },
+    {
+      "id": "gl-006-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "promotion",
+      "headline": "smart names Kang Yi as new global CMO, succeeding Mandy Zhang",
+      "summary": "EV brand smart appointed Kang Yi, formerly head of sales and marketing at Mercedes-Benz Auto Finance, as its global Chief Marketing Officer, succeeding Mandy Zhang.",
+      "source": "Barchart",
+      "sourceUrl": "https://www.barchart.com/story/news/479807/smart-automobile-appoints-kang-yi-as-new-global-cmo-succeeding-mandy-zhang",
+      "isPromotion": true,
+      "promotionPerson": "Kang Yi",
+      "congratsMessage": "Congratulations to Kang Yi on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "cmo",
+        "automotive"
+      ]
+    },
+    {
+      "id": "gl-007-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok unveils AI agent infrastructure and new ad formats at TikTok World 2026",
+      "summary": "At TikTok World 2026, TikTok launched 'TikTok Ads Skills', a toolkit for building custom AI-powered advertising workflows, alongside new interactive ad formats.",
+      "source": "Mobile Marketing Reads",
+      "sourceUrl": "https://www.mobilemarketingreads.com/tiktok-introduces-ai-agent-infrastructure-and-new-ad-formats-at-tiktok-world-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "tiktok",
+        "ai",
+        "ad tech"
+      ]
+    },
+    {
+      "id": "gl-008-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "industry",
+      "headline": "Meta rolls out AI business assistant in Ads Manager to all advertisers worldwide",
+      "summary": "Meta expanded its Meta AI business assistant in Ads Manager to all advertisers and agencies globally, plus AI-powered, zero-setup Pixel and Conversions API tools.",
+      "source": "SocialBee",
+      "sourceUrl": "https://socialbee.com/blog/facebook-updates/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "ai",
+        "ads manager"
+      ]
+    },
+    {
+      "id": "gl-009-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google formalizes agentic advertising model at Google Marketing Live",
+      "summary": "Google Marketing Live introduced an agentic advertising model that shifts the skills mattering in paid media toward AI-driven Demand Gen and recommendation transparency.",
+      "source": "Two Octobers",
+      "sourceUrl": "https://twooctobers.com/blog/digital-marketing-updates-june-2026/amp/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "google",
+        "agentic ai",
+        "paid media"
+      ]
+    },
+    {
+      "id": "gl-010-2026-06-16",
+      "date": "2026-06-16",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Gravity Global posts 56% revenue growth under CEO Jose Lozano",
+      "summary": "Independent agency network Gravity Global reported 56% year-over-year revenue growth and 10 new AOR wins under CEO Jose Lozano, who took the helm in late 2025.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "isPromotion": true,
+      "promotionPerson": "Jose Lozano",
+      "congratsMessage": "Congratulations to Jose Lozano on the new leadership role — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "promotion",
+        "ceo",
+        "agency"
+      ]
+    },
     {
       "id": "bd-001-2026-06-14",
       "date": "2026-06-14",
