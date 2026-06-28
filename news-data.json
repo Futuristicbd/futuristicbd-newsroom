@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-06-16T10:00:00+06:00",
-    "totalEntries": 100
+    "lastUpdated": "2026-06-29T10:00:00+06:00",
+    "totalEntries": 120
   },
   "news": [
+    {
+      "id": "bd-001-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh digital ad market hits $3.80B in 2026, up 10.1% year-on-year",
+      "summary": "Bangladesh's digital advertising market grew 10.1% to US$3.80 billion in 2026, up from US$3.45 billion in 2025, as brands shift budgets toward performance-driven channels.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital advertising",
+        "market growth",
+        "industry"
+      ]
+    },
+    {
+      "id": "bd-002-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "9th Digital Marketing Award honours 89 campaigns across Bangladesh",
+      "summary": "The 9th Digital Marketing Award by Bangladesh Brand Forum recognised 89 campaigns across 26 categories - 63 Bronze, 20 Silver and 6 Gold - drawing 500+ professionals.",
+      "source": "The Daily Corporate",
+      "sourceUrl": "https://en.thedailycorporate.com/89-campaigns-recognised-at-the-prestigious-9th-digital-marketing-award/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "awards",
+        "campaigns",
+        "brand forum"
+      ]
+    },
+    {
+      "id": "bd-003-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Social Square bets on AI and micro-creators to reshape influencer marketing",
+      "summary": "Bangladeshi firm Social Square is building an AI platform to let brands work with hundreds of creators at once, turning influencer marketing into a scalable, performance-based channel.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/features/pursuit/social-square-bets-ai-and-micro-creators-reshape-influencer-marketing-bangladesh",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "influencer marketing",
+        "AI",
+        "creators"
+      ]
+    },
+    {
+      "id": "bd-004-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Startup Bangladesh's 36 portfolio firms generate 7,000+ jobs, Tk180cr taxes",
+      "summary": "Startup Bangladesh has invested ~Tk109 crore across 36 tech startups including Pathao, Chaldal and 10 Minute School, generating 7,000+ jobs and Tk180 crore in taxes - 1.7x the investment.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/js-session/393938",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "investment",
+        "jobs"
+      ]
+    },
+    {
+      "id": "bd-005-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh e-commerce market projected to reach $10.5B by 2026",
+      "summary": "Bangladesh's e-commerce market is expected to hit US$10.5 billion in 2026 at a 17.61% annual growth rate, powered by mobile-first commerce where 80% of transactions are on mobile.",
+      "source": "Prothom Alo",
+      "sourceUrl": "https://en.prothomalo.com/business/local/zqdbigrkbe",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "e-commerce",
+        "mobile commerce",
+        "growth"
+      ]
+    },
+    {
+      "id": "bd-006-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Md Obaidul Hoque joins Bangladesh Commerce Bank as Managing Director & CEO",
+      "summary": "Md Obaidul Hoque has joined Bangladesh Commerce Bank Limited as Managing Director & CEO. He previously served as a board member and executive committee member of Janata Bank PLC.",
+      "source": "New Age",
+      "sourceUrl": "https://www.newagebd.net/post/mis/296345/obaidul-joins-bcbl-as-md-ceo",
+      "isPromotion": true,
+      "promotionPerson": "Md Obaidul Hoque",
+      "congratsMessage": "Congratulations to Md Obaidul Hoque on becoming Managing Director & CEO of Bangladesh Commerce Bank - on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "banking",
+        "leadership"
+      ]
+    },
+    {
+      "id": "bd-007-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladeshi businesses scale social media growth with data-driven strategies",
+      "summary": "Bangladeshi brands and agencies are increasingly demanding performance metrics over reach-based approaches as they scale social media operations through 2026.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/economy/corporates/how-bangladeshi-businesses-and-agencies-are-scaling-social-media-growth-year",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "social media",
+        "performance marketing",
+        "agencies"
+      ]
+    },
+    {
+      "id": "bd-008-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh digital marketing employs 50,000+ professionals, growing 25% a year",
+      "summary": "Bangladesh now employs an estimated 50,000+ people in digital marketing roles, expanding 25% annually as the sector matures toward data-driven, performance-based work.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "employment",
+        "digital marketing",
+        "talent"
+      ]
+    },
+    {
+      "id": "bd-009-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Govt appoints new heads to 15 institutions in latest leadership reshuffle",
+      "summary": "The government has appointed new heads to 15 public institutions, including the Directorate General of Food and the Department of Agricultural Marketing, in a wave of senior appointments.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/news/governance/news/govt-appoints-new-heads-15-institutions-4161046",
+      "isPromotion": true,
+      "promotionPerson": "New institutional heads",
+      "congratsMessage": "Congratulations to the newly appointed heads of 15 institutions on their leadership roles - on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "government",
+        "appointments",
+        "leadership"
+      ]
+    },
+    {
+      "id": "bd-010-2026-06-29",
+      "date": "2026-06-29",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Fintech leads Bangladesh's startup surge with 2,500+ active ventures",
+      "summary": "Bangladesh now has 2,500+ active startups and over US$900M raised since 2010, with fintech the strongest sector amid massive room in payments, credit scoring and remittance tooling.",
+      "source": "Future Startup",
+      "sourceUrl": "https://futurestartup.com/2026/02/23/the-state-of-bangladeshs-digital-economy-at-the-beginning-of-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "fintech",
+        "startups",
+        "digital economy"
+      ]
+    },
+    {
+      "id": "gl-001-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "industry",
+      "headline": "Meta overtakes Google in global ad revenue for the first time in two decades",
+      "summary": "eMarketer projects Meta will earn $243.46B in global ad revenue in 2026, edging past Google's $239.54B - the first time Google loses the top digital-ad spot in roughly 20 years.",
+      "source": "B2the7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Meta",
+        "Google",
+        "ad revenue"
+      ]
+    },
+    {
+      "id": "gl-002-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "trend",
+      "headline": "ChatGPT advertising goes self-serve, hits $100M annualised revenue in six weeks",
+      "summary": "OpenAI opened ChatGPT Ads Manager to any U.S. business with no minimum spend. With 2.5B daily prompts, it reached $100M in annualised revenue within six weeks of launch.",
+      "source": "B2the7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ChatGPT",
+        "AI advertising",
+        "OpenAI"
+      ]
+    },
+    {
+      "id": "gl-003-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "industry",
+      "headline": "WPP Media forecasts global ad revenue to grow 5.1% to $1.3 trillion in 2026",
+      "summary": "WPP Media's midyear This Year Next Year report projects 5.1% growth in global advertising revenue in 2026, reaching $1.3 trillion, though social's growth is set to decelerate from 2027.",
+      "source": "WPP Media",
+      "sourceUrl": "https://www.wppmedia.com/thought-leadership/this-year-next-year/midyear-2026",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ad forecast",
+        "WPP",
+        "global market"
+      ]
+    },
+    {
+      "id": "gl-004-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google launches Ask Advisor, a Gemini-powered agentic ads interface",
+      "summary": "Google is going all-in on agentic advertising with Ask Advisor, connecting Google Ads, Analytics, Merchant Center and Marketing Platform into one Gemini conversational interface with shared memory.",
+      "source": "Boot Camp Digital",
+      "sourceUrl": "https://bootcampdigital.com/blog/june-2026-digital-news-updates/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Google",
+        "Gemini",
+        "agentic ads"
+      ]
+    },
+    {
+      "id": "gl-005-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Creator agency Influencer appoints Jenny Penich as first Global CMO",
+      "summary": "Creator marketing agency Influencer named North American President Jenny Penich its first Global Chief Marketing Officer, adding global strategy across EMEA and the Middle East to her remit.",
+      "source": "Hello Partner",
+      "sourceUrl": "https://hellopartner.com/2026/04/21/influencer-appoints-its-first-cmo-as-industry-is-projected-to-hit-highs-of-500b-in-2027/",
+      "isPromotion": true,
+      "promotionPerson": "Jenny Penich",
+      "congratsMessage": "Congratulations to Jenny Penich on becoming the first Global CMO of Influencer - on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "CMO",
+        "influencer marketing"
+      ]
+    },
+    {
+      "id": "gl-006-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok expands Symphony AI suite with avatars, voiceovers and localisation",
+      "summary": "TikTok added new generative tools to its Symphony AI suite, letting advertisers create, localise and adapt video content faster with AI-generated avatars, voiceovers and creative variations.",
+      "source": "Impression",
+      "sourceUrl": "https://www.impressiondigital.com/blog/whats-new-in-paid-media-june-2026-industry-updates/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "TikTok",
+        "generative AI",
+        "creative"
+      ]
+    },
+    {
+      "id": "gl-007-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "industry",
+      "headline": "Cannes Lions 2026 draws 20,050 entries as integrity standards tighten",
+      "summary": "Cannes Lions returned June 22-26 with six content streams and Oprah Winfrey receiving the LionHeart award. Entries fell 25.46% to 20,050 from 92 countries as stricter awards integrity rules took effect.",
+      "source": "B2the7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-june-2026-ai-search-chatgpt-ads-meta",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Cannes Lions",
+        "awards",
+        "creativity"
+      ]
+    },
+    {
+      "id": "gl-008-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Effective Measure names Lizzie Babarczy as Global Chief Marketing Officer",
+      "summary": "Ad measurement firm Effective Measure appointed Lizzie Babarczy as global CMO, based in Sydney, to kickstart the company's international expansion plans.",
+      "source": "Research Live",
+      "sourceUrl": "https://www.research-live.com/article/news/global-cmo-appointment-to-kickstart-effective-measure-expansion/id/4010671",
+      "isPromotion": true,
+      "promotionPerson": "Lizzie Babarczy",
+      "congratsMessage": "Congratulations to Lizzie Babarczy on her appointment as Global CMO of Effective Measure - on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "CMO",
+        "ad measurement"
+      ]
+    },
+    {
+      "id": "gl-009-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "marketing",
+      "headline": "Meta rolls out AI connectors letting agencies manage ads via external tools",
+      "summary": "Meta's biggest June update lets advertisers manage Meta ads through external AI platforms and workflow tools, a boon for agencies that have built operations around third-party AI stacks.",
+      "source": "Boot Camp Digital",
+      "sourceUrl": "https://bootcampdigital.com/blog/june-2026-digital-news-updates/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Meta",
+        "AI connectors",
+        "agencies"
+      ]
+    },
+    {
+      "id": "gl-010-2026-06-29",
+      "date": "2026-06-29",
+      "region": "global",
+      "category": "trend",
+      "headline": "AI attribution blind spot emerges as chatbots reshape buyer journeys",
+      "summary": "A growing AI attribution blind spot is challenging how brands measure buyer influence, as AI chatbots emerge as competing platforms and Google's Core Update reshapes AI search citations.",
+      "source": "Seafoam Media",
+      "sourceUrl": "https://seafoammedia.com/june-2026-marketing-news-trends-insights/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "attribution",
+        "AI search",
+        "measurement"
+      ]
+    },
     {
       "id": "bd-001-2026-06-16",
       "date": "2026-06-16",
