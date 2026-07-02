@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-06-29T17:15:00+06:00",
-    "totalEntries": 120
+    "lastUpdated": "2026-07-02T17:45:00+06:00",
+    "totalEntries": 140
   },
   "news": [
+    {
+      "id": "bd-001-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh digital ad spend to hit $3.8B in 2026, up 10.1%",
+      "summary": "Bangladesh's digital advertising market grew 10.1% year-on-year to reach $3.80 billion in 2026, up from $3.45 billion in 2025, and is forecast to expand to about $5.31 billion by 2029.",
+      "source": "GlobeNewswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/02/10/3235203/28124/en/Bangladesh-Digital-Ad-Spend-Business-Report-2026-Market-to-Grow-by-10-1-to-Reach-3-8-Billion-this-Year-Market-Size-Forecast-by-Spend-Value-Across-100-KPIs-to-2030.html",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital-ads",
+        "market-growth",
+        "bangladesh"
+      ]
+    },
+    {
+      "id": "bd-002-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangla-language video ads outperform English by 34% engagement",
+      "summary": "Bangla-language video creatives deliver an average 34% higher engagement and 22% lower cost per result than English content, pushing agencies toward local-first production in 2026.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "localization",
+        "video",
+        "engagement"
+      ]
+    },
+    {
+      "id": "bd-003-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Kazi Mahboob Hassan appointed Chief Marketing Officer of Banglalink",
+      "summary": "Telecom operator Banglalink named Kazi Mahboob Hassan as its new Chief Marketing Officer, tasking him with leading brand strategy and customer growth across the carrier's digital services.",
+      "source": "Daily Sun",
+      "sourceUrl": "https://www.daily-sun.com/business/840910/banglalink-appoints-kazi-mahboob-as-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Kazi Mahboob Hassan",
+      "congratsMessage": "Congratulations to Kazi Mahboob Hassan on being appointed CMO of Banglalink — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "banglalink"
+      ]
+    },
+    {
+      "id": "bd-004-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Md Obaidul Hoque joins Bangladesh Commerce Bank as MD & CEO",
+      "summary": "Md Obaidul Hoque has joined Bangladesh Commerce Bank Limited as Managing Director and CEO. He previously served as a board member and executive committee member of Janata Bank PLC.",
+      "source": "New Age",
+      "sourceUrl": "https://www.newagebd.net/post/mis/296345/obaidul-joins-bcbl-as-md-ceo",
+      "isPromotion": true,
+      "promotionPerson": "Md Obaidul Hoque",
+      "congratsMessage": "Congratulations to Md Obaidul Hoque on being appointed MD & CEO of Bangladesh Commerce Bank — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "banking",
+        "ceo"
+      ]
+    },
+    {
+      "id": "bd-005-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Dr Humayra Sultana named MD & CEO of Biman Bangladesh Airlines",
+      "summary": "The government appointed Dr Humayra Sultana, Additional Secretary at the Ministry of Civil Aviation and Tourism, as Managing Director and CEO of Biman Bangladesh Airlines as an additional charge.",
+      "source": "BSS",
+      "sourceUrl": "https://www.bssnews.net/news-flash/357534",
+      "isPromotion": true,
+      "promotionPerson": "Dr Humayra Sultana",
+      "congratsMessage": "Congratulations to Dr Humayra Sultana on being appointed MD & CEO of Biman Bangladesh Airlines — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "aviation",
+        "ceo"
+      ]
+    },
+    {
+      "id": "bd-006-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Nigeria's Jiji acquires Bangladesh marketplace Bikroy.com",
+      "summary": "Nigerian classifieds giant Jiji has acquired Bangladeshi online marketplace Bikroy.com, deepening its push into Bangladesh's fast-growing digital commerce sector just over a year after entering the market.",
+      "source": "The Daily Star",
+      "sourceUrl": "https://www.thedailystar.net/business/news/nigerias-jiji-acquires-bangladeshs-online-marketplace-bikroycom-4175866",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ecommerce",
+        "acquisition",
+        "marketplace"
+      ]
+    },
+    {
+      "id": "bd-007-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh e-commerce projected to top $5-6B in 2026",
+      "summary": "Driven by better logistics, digital payments and social commerce, Bangladesh's e-commerce sector is projected to exceed $5-6 billion in 2026, growing 12-18% with 80% of transactions on mobile.",
+      "source": "Future Startup",
+      "sourceUrl": "https://futurestartup.com/2026/02/23/the-state-of-bangladeshs-digital-economy-at-the-beginning-of-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ecommerce",
+        "digital-economy",
+        "mobile"
+      ]
+    },
+    {
+      "id": "bd-008-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "TikTok crosses 46.5M adult users in Bangladesh; Facebook at 72.5M",
+      "summary": "TikTok has surpassed 46.5 million users aged 18+ in Bangladesh while Facebook holds roughly 72.5 million active users, reshaping where brands place ad budgets in 2026.",
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "tiktok",
+        "facebook",
+        "social-media"
+      ]
+    },
+    {
+      "id": "bd-009-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Revised bank MD/CEO appointment rules draw banker criticism",
+      "summary": "An amendment to the policy governing MD and CEO appointments at state-owned banks, requiring two years as DMD plus 20 years experience, has drawn criticism from senior bankers who call it discriminatory.",
+      "source": "The Financial Express",
+      "sourceUrl": "https://thefinancialexpress.com.bd/home/bb-revises-criteria-for-bank-md-ceo-appointments",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "banking",
+        "policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "bd-010-2026-07-02",
+      "date": "2026-07-02",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "Bangladeshi agencies pivot to ROAS as clients demand accountability",
+      "summary": "As the market matures, Bangladeshi businesses and agencies are scaling social media growth while clients increasingly ask about cost per acquisition and ROAS by channel rather than reach alone.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/economy/corporates/how-bangladeshi-businesses-and-agencies-are-scaling-social-media-growth-year",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "agencies",
+        "roas",
+        "performance-marketing"
+      ]
+    },
+    {
+      "id": "gl-001-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "industry",
+      "headline": "Omnicom wins adidas' $512M global media account from WPP",
+      "summary": "Omnicom has won adidas' estimated $512 million global media mandate following a three-way review, ending WPP's eight-year stewardship of the sportswear giant's media business.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-july-2-2026-12125422",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "media-account",
+        "omnicom",
+        "adidas"
+      ]
+    },
+    {
+      "id": "gl-002-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Puma hires new Global CMO from Hugo Boss",
+      "summary": "Puma has appointed a new Global Chief Marketing Officer, poached from Hugo Boss, to lead the sportswear brand's worldwide marketing as it sharpens its positioning against rivals.",
+      "source": "MediaPost",
+      "sourceUrl": "https://www.mediapost.com/publications/article/412003/puma-hires-global-cmo-from-hugo-boss.html",
+      "isPromotion": true,
+      "promotionPerson": "Puma Global CMO",
+      "congratsMessage": "Congratulations to Puma's new Global CMO on the appointment — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "puma"
+      ]
+    },
+    {
+      "id": "gl-003-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Influencer names Jenny Penich as first Global CMO",
+      "summary": "Creator marketing agency Influencer appointed Jenny Penich as its first Global Chief Marketing Officer, elevating her from North American President to lead global strategy across EMEA and the Middle East.",
+      "source": "Hello Partner",
+      "sourceUrl": "https://hellopartner.com/2026/04/21/influencer-appoints-its-first-cmo-as-industry-is-projected-to-hit-highs-of-500b-in-2027/",
+      "isPromotion": true,
+      "promotionPerson": "Jenny Penich",
+      "congratsMessage": "Congratulations to Jenny Penich on becoming the first Global CMO of Influencer — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "cmo",
+        "influencer-marketing"
+      ]
+    },
+    {
+      "id": "gl-004-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Ndidi Oteh to become Accenture Song global CEO",
+      "summary": "Accenture Song named Ami Palan its new Americas lead, succeeding Ndidi Oteh, who steps up to become Accenture Song's global CEO in a major leadership reshuffle at the marketing services group.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "isPromotion": true,
+      "promotionPerson": "Ndidi Oteh",
+      "congratsMessage": "Congratulations to Ndidi Oteh on being appointed global CEO of Accenture Song — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "accenture-song"
+      ]
+    },
+    {
+      "id": "gl-005-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "trend",
+      "headline": "Meta expands AI assistant in Ads Manager; Reels adds post-view ads",
+      "summary": "Meta has expanded its AI assistant inside Ads Manager while Instagram Reels rolled out post-view ad formats and Threads opened static carousel and video ads more broadly in July 2026.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-july-1-2026-12122096",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "meta",
+        "ai",
+        "ad-formats"
+      ]
+    },
+    {
+      "id": "gl-006-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok's Symphony AI tools cut ad production time by 70%",
+      "summary": "TikTok's Symphony suite of Image to Video, Text to Video and AI avatars generates platform-native ad creatives in seconds, with brands reporting a 70% reduction in content production time.",
+      "source": "AdMetrics",
+      "sourceUrl": "https://www.admetrics.io/en/post/tiktok-advertising-trends",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "tiktok",
+        "generative-ai",
+        "creative"
+      ]
+    },
+    {
+      "id": "gl-007-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "trend",
+      "headline": "Google rebuilds its ads stack around Gemini and AI Mode search",
+      "summary": "Google is rebuilding its advertising stack around Gemini as AI Mode becomes the new search surface, moving paid results into AI answer spaces where structured content increasingly influences placement.",
+      "source": "Mean CEO",
+      "sourceUrl": "https://blog.mean.ceo/digital-advertising-trends-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "google",
+        "gemini",
+        "search-ads"
+      ]
+    },
+    {
+      "id": "gl-008-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Hotwire Global appoints Grant Toups as global CEO",
+      "summary": "Communications agency Hotwire Global has appointed Grant Toups as its new global CEO, tasked with steering the tech-focused firm's next phase of growth and integrated marketing services.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-ceo-changes-and-appointments/",
+      "isPromotion": true,
+      "promotionPerson": "Grant Toups",
+      "congratsMessage": "Congratulations to Grant Toups on being appointed global CEO of Hotwire Global — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "appointment",
+        "ceo",
+        "agency"
+      ]
+    },
+    {
+      "id": "gl-009-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "industry",
+      "headline": "Havas faces complaints over alleged 'brand safety' collusion",
+      "summary": "Complaints allege that advertising agencies, including Havas, unlawfully colluded to impose common brand safety standards across the digital advertising industry, raising fresh regulatory scrutiny.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-july-2-2026-12125422",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "regulation",
+        "brand-safety",
+        "havas"
+      ]
+    },
+    {
+      "id": "gl-010-2026-07-02",
+      "date": "2026-07-02",
+      "region": "global",
+      "category": "marketing",
+      "headline": "Marketers warn AI creative risks making brands sound the same",
+      "summary": "In 2026 predictions, three in four marketers say AI-generated creative risks homogenizing brands, echoing a Cannes shift toward using data with precision, restraint and intent rather than volume.",
+      "source": "Ad Age",
+      "sourceUrl": "https://adage.com/trends-predictions/business-forecast/aa-ad-and-marketing-leaders-2026-predictions/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ai-creative",
+        "branding",
+        "strategy"
+      ]
+    },
     {
       "id": "bd-001-2026-06-29",
       "date": "2026-06-29",
