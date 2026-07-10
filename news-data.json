@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-07-02T17:45:00+06:00",
-    "totalEntries": 140
+    "lastUpdated": "2026-07-10T20:20:00+06:00",
+    "totalEntries": 160
   },
   "news": [
+    {
+      "id": "bd-001-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh Digital Ad Market Grows 10.1% YoY to $3.80 Billion in 2026",
+      "summary": "Bangladesh's digital advertising market expanded 10.1% year-on-year to reach US$3.80 billion in 2026, up from US$3.45 billion in 2025, driven by mobile-first commerce and rising brand spend.",
+      "source": "Agent Wise X",
+      "sourceUrl": "https://agentwisex.com/bangladesh-digital-marketing-statistics-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital advertising",
+        "market growth",
+        "Bangladesh economy"
+      ]
+    },
+    {
+      "id": "bd-002-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "marketing",
+      "headline": "9th Digital Marketing Award Honors 89 Campaigns Across 26 Categories",
+      "summary": "Bangladesh Brand Forum's Digital Marketing Award, presented by Meghna Group and powered by Walton Refrigerator, celebrated 89 outstanding campaigns at a gala held at Le Meridien Dhaka on June 20.",
+      "source": "The Daily Corporate",
+      "sourceUrl": "https://en.thedailycorporate.com/89-campaigns-recognised-at-the-prestigious-9th-digital-marketing-award/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital marketing award",
+        "Bangladesh Brand Forum",
+        "campaigns"
+      ]
+    },
+    {
+      "id": "bd-003-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangla-Language Video Ads Outperform English Creatives by 34%",
+      "summary": "Native Bangla storytelling in FMCG, education, and e-commerce campaigns is driving 34% higher engagement and 22% lower cost per result compared to English-language creatives, per industry data.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Bangla content",
+        "video advertising",
+        "engagement"
+      ]
+    },
+    {
+      "id": "bd-004-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh's Digital Marketing Workforce Tops 50,000, Growing 25% a Year",
+      "summary": "Bangladesh now employs an estimated 50,000+ professionals in digital marketing roles, with the workforce expanding roughly 25% annually as agencies scale to meet rising brand demand.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "workforce",
+        "digital marketing jobs",
+        "industry growth"
+      ]
+    },
+    {
+      "id": "bd-005-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh Bank Tightens Criteria for Bank MD and CEO Appointments",
+      "summary": "Bangladesh Bank has revised rules for appointing MDs and CEOs of state-owned and specialized banks, requiring at least two years as Deputy MD and 20 years of banking experience.",
+      "source": "The Financial Express",
+      "sourceUrl": "https://thefinancialexpress.com.bd/home/bb-revises-criteria-for-bank-md-ceo-appointments",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Bangladesh Bank",
+        "banking policy",
+        "executive appointments"
+      ]
+    },
+    {
+      "id": "bd-006-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Md Obaidul Hoque Named MD & CEO of Bangladesh Commerce Bank",
+      "summary": "Md Obaidul Hoque has joined as Managing Director and CEO of Bangladesh Commerce Bank Limited, having previously served as a board and executive committee member at Janata Bank PLC.",
+      "source": "CEO Forum Bangladesh",
+      "sourceUrl": "https://www.facebook.com/ceoforumbangladesh/posts/md-obaidul-hoque-has-joined-as-managing-director-and-ceo-of-bangladesh-commerce-/1544592994336378/",
+      "isPromotion": true,
+      "promotionPerson": "Md Obaidul Hoque",
+      "congratsMessage": "Congratulations to Md Obaidul Hoque on becoming Managing Director & CEO of Bangladesh Commerce Bank — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "banking",
+        "executive appointment",
+        "CEO"
+      ]
+    },
+    {
+      "id": "bd-007-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Mahboob Appointed as Banglalink's New Chief Marketing Officer",
+      "summary": "Banglalink has named Mahboob as its new Chief Marketing Officer, taking charge of the telecom operator's brand strategy and marketing operations in Bangladesh's competitive telecom market.",
+      "source": "New Age",
+      "sourceUrl": "https://www.newagebd.net/post/mis/282539/mahboob-appointed-as-banglalink-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Mahboob",
+      "congratsMessage": "Congratulations to Mahboob on becoming Chief Marketing Officer at Banglalink — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Banglalink",
+        "CMO",
+        "telecom"
+      ]
+    },
+    {
+      "id": "bd-008-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Humayra Sultana Appointed Biman Bangladesh's New MD & CEO",
+      "summary": "Humayra Sultana has been appointed as the new Managing Director and CEO of Biman Bangladesh Airlines, taking the helm of the national flag carrier.",
+      "source": "BSS News",
+      "sourceUrl": "https://www.bssnews.net/news-flash/357534",
+      "isPromotion": true,
+      "promotionPerson": "Humayra Sultana",
+      "congratsMessage": "Congratulations to Humayra Sultana on becoming MD & CEO of Biman Bangladesh Airlines — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Biman Bangladesh",
+        "aviation",
+        "CEO"
+      ]
+    },
+    {
+      "id": "bd-009-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh Startup Ecosystem Tops 2,500 Active Companies, $900M Raised",
+      "summary": "Bangladesh's startup ecosystem now counts 2,500+ active companies supporting 1.5 million jobs, having raised over $900 million since 2010, with fintech, e-commerce and logistics leading growth.",
+      "source": "Future Startup",
+      "sourceUrl": "https://futurestartup.com/2026/02/23/the-state-of-bangladeshs-digital-economy-at-the-beginning-of-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "fintech",
+        "e-commerce"
+      ]
+    },
+    {
+      "id": "bd-010-2026-07-10",
+      "date": "2026-07-10",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Government Launches Tk 500 Crore Startup Fund in National Budget",
+      "summary": "Bangladesh's national budget introduces a Tk 500 crore Startup Fund to boost tech entrepreneurship, targeting young founders and women entrepreneurs as digital economy investment ramps up.",
+      "source": "MEA Tech Watch",
+      "sourceUrl": "https://meatechwatch.com/2026/06/12/bangladesh-unveils-major-digital-economy-push-with-startup-fund-ict-investments-and-tech-jobs-target/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startup fund",
+        "government budget",
+        "digital economy"
+      ]
+    },
+    {
+      "id": "gl-001-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "industry",
+      "headline": "AI in Advertising Market Set to Nearly Triple to $36.34B by 2030",
+      "summary": "The global AI in advertising market is projected to grow from $11.17 billion in 2025 to $36.34 billion by 2030, reflecting rapid adoption of AI-powered ad tools across major platforms.",
+      "source": "GlobeNewswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/06/3322346/0/en/AI-in-Advertising-Market-Set-to-Skyrocket-From-11-17-Billion-in-2025-to-36-34-Billion-by-2030.html",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "AI advertising",
+        "market forecast",
+        "adtech"
+      ]
+    },
+    {
+      "id": "gl-002-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "industry",
+      "headline": "Global AdTech Market Surpasses $1.1 Trillion in 2026",
+      "summary": "The global advertising technology market reached USD 1,117.97 billion in 2026, cementing AdTech as a trillion-dollar industry as AI-driven automation reshapes campaign management worldwide.",
+      "source": "Blog.mean.ceo",
+      "sourceUrl": "https://blog.mean.ceo/adtech-news-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "adtech",
+        "market size",
+        "global advertising"
+      ]
+    },
+    {
+      "id": "gl-003-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "trend",
+      "headline": "Meta Rolls Out AI Business Assistant to All Advertisers Globally",
+      "summary": "Meta's AI-powered business assistant inside Ads Manager is now available to every advertiser and agency worldwide, aiming to automate campaign creation, targeting, and optimization at scale.",
+      "source": "SocialB",
+      "sourceUrl": "https://digitalb.co.uk/blog/the-marketing-impact-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Meta",
+        "AI assistant",
+        "Ads Manager"
+      ]
+    },
+    {
+      "id": "gl-004-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "trend",
+      "headline": "Instagram Reels Adds New 'Post-View' Ad Format",
+      "summary": "Instagram has introduced post-view ad formats for Reels, giving advertisers new ways to measure and monetize engagement after a user finishes watching a Reel.",
+      "source": "Digital Applied",
+      "sourceUrl": "https://www.digitalapplied.com/blog/social-media-ai-advertising-april-2026-meta-google",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Instagram",
+        "Reels",
+        "ad formats"
+      ]
+    },
+    {
+      "id": "gl-005-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "trend",
+      "headline": "Threads Opens Carousel and Video Ads to Advertisers Worldwide",
+      "summary": "Meta's Threads platform has globally opened up static carousel ads and video ad formats, expanding monetization options as the platform continues to grow its advertiser base.",
+      "source": "SocialB",
+      "sourceUrl": "https://digitalb.co.uk/blog/the-marketing-impact-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Threads",
+        "carousel ads",
+        "video ads"
+      ]
+    },
+    {
+      "id": "gl-006-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "industry",
+      "headline": "Google's Updated Ads Terms of Service Take Effect July 1",
+      "summary": "Google's revised Ads Terms of Service took effect July 1, clarifying how advertiser-provided data feeds the AI-powered tools increasingly running ad campaigns across Search and YouTube.",
+      "source": "Blog.mean.ceo",
+      "sourceUrl": "https://blog.mean.ceo/digital-advertising-trends-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Google Ads",
+        "terms of service",
+        "AI automation"
+      ]
+    },
+    {
+      "id": "gl-007-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "promotion",
+      "headline": "OpenAI Names Former Apple Executive Mili Kapoor Consumer Marketing Lead",
+      "summary": "OpenAI has appointed Mili Kapoor, a former Apple executive with nearly two decades in consumer marketing and brand strategy, as its new Consumer Marketing Lead.",
+      "source": "Intellizence",
+      "sourceUrl": "https://intellizence.com/insights/executive-appointments/latest-cmo-appointments-and-changes/",
+      "isPromotion": true,
+      "promotionPerson": "Mili Kapoor",
+      "congratsMessage": "Congratulations to Mili Kapoor on becoming Consumer Marketing Lead at OpenAI — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "OpenAI",
+        "marketing leadership",
+        "executive appointment"
+      ]
+    },
+    {
+      "id": "gl-008-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Meta Appoints Denise Moreno as Chief Marketing Officer",
+      "summary": "Meta has named Denise Moreno as its new Chief Marketing Officer. Moreno brings nearly two decades of experience at Meta driving user growth, brand marketing, and product adoption.",
+      "source": "HR Today",
+      "sourceUrl": "https://hrtoday.in/meta-appoints-denise-moreno-as-chief-marketing-officer/",
+      "isPromotion": true,
+      "promotionPerson": "Denise Moreno",
+      "congratsMessage": "Congratulations to Denise Moreno on becoming Chief Marketing Officer at Meta — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Meta",
+        "CMO",
+        "executive appointment"
+      ]
+    },
+    {
+      "id": "gl-009-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "promotion",
+      "headline": "The Trade Desk Appoints Sarah Gavin as CMO and EVP",
+      "summary": "Adtech leader The Trade Desk has appointed Sarah Gavin as Chief Marketing Officer and Executive Vice President, where she will lead global brand, communications, and demand generation.",
+      "source": "The Trade Desk Investor Relations",
+      "sourceUrl": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Appoints-Sarah-Gavin-as-Chief-Marketing-Officer-Executive-Vice-President/default.aspx",
+      "isPromotion": true,
+      "promotionPerson": "Sarah Gavin",
+      "congratsMessage": "Congratulations to Sarah Gavin on becoming Chief Marketing Officer & EVP at The Trade Desk — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "The Trade Desk",
+        "CMO",
+        "adtech"
+      ]
+    },
+    {
+      "id": "gl-010-2026-07-10",
+      "date": "2026-07-10",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok's Symphony AI Suite Cuts Ad Production Time by 70%",
+      "summary": "TikTok's Symphony AI tools, including Image-to-Video and AI avatars, are helping brands generate platform-native ad creatives in seconds, with reported 70% reductions in content production time.",
+      "source": "Blog.mean.ceo",
+      "sourceUrl": "https://blog.mean.ceo/digital-advertising-trends-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "TikTok",
+        "Symphony AI",
+        "ad creative"
+      ]
+    },
     {
       "id": "bd-001-2026-07-02",
       "date": "2026-07-02",
