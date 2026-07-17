@@ -1,10 +1,370 @@
 {
   "meta": {
     "siteName": "FuturisticBD Newsroom",
-    "lastUpdated": "2026-07-10T20:20:00+06:00",
-    "totalEntries": 160
+    "lastUpdated": "2026-07-17T10:00:00+06:00",
+    "totalEntries": 180
   },
   "news": [
+    {
+      "id": "bd-001-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Coca-Cola Bangladesh Appoints Laila Farzana as Marketing Director",
+      "summary": "Coca-Cola Bangladesh named Laila Farzana Director of Front Line Marketing, bringing 16+ years of experience in marketing, digital transformation and trade marketing.",
+      "source": "The Business Standard",
+      "sourceUrl": "https://www.tbsnews.net/economy/corporates/coca-cola-bangladesh-appoints-laila-farzana-marketing-director-1486926",
+      "isPromotion": true,
+      "promotionPerson": "Laila Farzana",
+      "congratsMessage": "Congratulations to Laila Farzana on becoming Marketing Director at Coca-Cola Bangladesh — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Coca-Cola",
+        "FMCG",
+        "marketing leadership"
+      ]
+    },
+    {
+      "id": "bd-002-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "ICAB Appoints Md. Quamruzzaman as New CEO",
+      "summary": "The Institute of Chartered Accountants of Bangladesh named Md. Quamruzzaman CEO. He brings 35+ years in banking and financial services, most recently leading NBP Bangladesh Operations.",
+      "source": "The Financial Express",
+      "sourceUrl": "https://today.thefinancialexpress.com.bd/trade-market/quamruzzaman-new-ceo-of-icab-1783875298",
+      "isPromotion": true,
+      "promotionPerson": "Md. Quamruzzaman",
+      "congratsMessage": "Congratulations to Md. Quamruzzaman on becoming CEO of ICAB — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "ICAB",
+        "finance",
+        "leadership"
+      ]
+    },
+    {
+      "id": "bd-003-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Kingkor Ahsan Appointed CEO at Havas Bangladesh",
+      "summary": "Kingkor Ahsan has been named Chief Executive Officer at Havas Bangladesh, taking the helm of the global agency network's local operations.",
+      "source": "Business Brillianz",
+      "sourceUrl": "https://www.facebook.com/BizBrillianz/posts/kingkor-ahsan-has-been-appointed-as-chief-executive-officer-ceo-at-havas-banglad/884051064741352/",
+      "isPromotion": true,
+      "promotionPerson": "Kingkor Ahsan",
+      "congratsMessage": "Congratulations to Kingkor Ahsan on becoming CEO of Havas Bangladesh — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Havas",
+        "advertising agency",
+        "leadership"
+      ]
+    },
+    {
+      "id": "bd-004-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Mahboob Appointed as Banglalink Chief Marketing Officer",
+      "summary": "Banglalink has named Mahboob as its new Chief Marketing Officer, taking charge of brand and marketing strategy for the telecom operator.",
+      "source": "New Age",
+      "sourceUrl": "https://www.newagebd.net/post/mis/282539/mahboob-appointed-as-banglalink-cmo",
+      "isPromotion": true,
+      "promotionPerson": "Mahboob",
+      "congratsMessage": "Congratulations to Mahboob on becoming CMO of Banglalink — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Banglalink",
+        "telecom",
+        "CMO"
+      ]
+    },
+    {
+      "id": "bd-005-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "promotion",
+      "headline": "Md Motasem Billah Promoted to Executive Director of Bangladesh Bank",
+      "summary": "Md Motasem Billah has been promoted to Executive Director, the highest position at the central bank, having previously served as Nagad administrator and Banking Inspection director.",
+      "source": "Markedium",
+      "sourceUrl": "https://www.facebook.com/Markedium.bd/posts/md-motasem-billah-has-been-promoted-to-executive-director-of-bangladesh-bank-the/1370226428471736/",
+      "isPromotion": true,
+      "promotionPerson": "Md Motasem Billah",
+      "congratsMessage": "Congratulations to Md Motasem Billah on his promotion to Executive Director of Bangladesh Bank — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Bangladesh Bank",
+        "banking",
+        "promotion"
+      ]
+    },
+    {
+      "id": "bd-006-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh's Digital Ad Market Grows 10.1% YoY to $3.80 Billion",
+      "summary": "Bangladesh's digital advertising market rose 10.1% year-on-year to reach US$3.80 billion in 2026, up from $3.45 billion in 2025, driven by Facebook and TikTok usage growth.",
+      "source": "Ngital",
+      "sourceUrl": "https://ngital.com/state-of-digital-marketing-bangladesh-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "digital advertising",
+        "market growth",
+        "social media"
+      ]
+    },
+    {
+      "id": "bd-007-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "ACI Pharma Business Holds Annual Marketing Conference 2026-27",
+      "summary": "ACI Pharma Business convened its Annual Marketing Conference 2026-27 in Cox's Bazar on July 10, bringing together field and strategic marketing personnel from across Bangladesh.",
+      "source": "Dhaka Tribune",
+      "sourceUrl": "https://www.dhakatribune.com/business/415021/aci-pharma-business-holds-annual-marketing",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "ACI Pharma",
+        "conference",
+        "pharma marketing"
+      ]
+    },
+    {
+      "id": "bd-008-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh Bank Revises Criteria for Bank MD, CEO Appointments",
+      "summary": "Bangladesh Bank has tightened eligibility rules for bank MD and CEO roles, requiring at least 20 years of banking experience and prior service as DMD or AMD.",
+      "source": "The Financial Express",
+      "sourceUrl": "https://thefinancialexpress.com.bd/home/bb-revises-criteria-for-bank-md-ceo-appointments",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Bangladesh Bank",
+        "banking policy",
+        "governance"
+      ]
+    },
+    {
+      "id": "bd-009-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "trend",
+      "headline": "Bangladesh Startup Scene Shifts From Emergence to 'Sorting' Phase",
+      "summary": "Bangladesh now has 2,500+ active startups supporting 1.5 million jobs and $900M+ raised since 2010, with fintech, e-commerce and logistics leading a maturing market.",
+      "source": "Future Startup / mean.ceo",
+      "sourceUrl": "https://blog.mean.ceo/startups-bangladesh-news-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "startups",
+        "fintech",
+        "e-commerce"
+      ]
+    },
+    {
+      "id": "bd-010-2026-07-17",
+      "date": "2026-07-17",
+      "region": "bangladesh",
+      "category": "industry",
+      "headline": "Bangladesh E-Commerce Market on Track for $10.5 Billion by 2026",
+      "summary": "Bangladesh's e-commerce market is projected to reach $10.5 billion in 2026, growing 17.61% annually, with 80% of transactions now happening on mobile devices.",
+      "source": "Ecomezi",
+      "sourceUrl": "https://ecomezi.com/future-of-e-commerce-in-bangladesh/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "e-commerce",
+        "mobile commerce",
+        "market growth"
+      ]
+    },
+    {
+      "id": "gl-001-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "promotion",
+      "headline": "Meta Appoints Denise Moreno as Chief Marketing Officer",
+      "summary": "Meta named Denise Moreno as its new CMO. She brings nearly two decades at Meta, having driven user growth and brand marketing across the company's platforms.",
+      "source": "HR Today",
+      "sourceUrl": "https://hrtoday.in/meta-appoints-denise-moreno-as-chief-marketing-officer/",
+      "isPromotion": true,
+      "promotionPerson": "Denise Moreno",
+      "congratsMessage": "Congratulations to Denise Moreno on becoming CMO of Meta — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "Meta",
+        "CMO",
+        "leadership"
+      ]
+    },
+    {
+      "id": "gl-002-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "promotion",
+      "headline": "The Trade Desk Appoints Sarah Gavin as CMO and EVP",
+      "summary": "The Trade Desk named Sarah Gavin Chief Marketing Officer and EVP. She most recently served as Chief Communications Officer and interim CMO at Zendesk.",
+      "source": "The Trade Desk Investor Relations",
+      "sourceUrl": "https://investors.thetradedesk.com/news-and-events/news/news-details/2026/The-Trade-Desk-Appoints-Sarah-Gavin-as-Chief-Marketing-Officer-Executive-Vice-President/default.aspx",
+      "isPromotion": true,
+      "promotionPerson": "Sarah Gavin",
+      "congratsMessage": "Congratulations to Sarah Gavin on becoming CMO and EVP of The Trade Desk — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "The Trade Desk",
+        "adtech",
+        "CMO"
+      ]
+    },
+    {
+      "id": "gl-003-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "promotion",
+      "headline": "MANN+HUMMEL Names Christoph Sagemüller Chief Marketing Officer",
+      "summary": "Effective August 17, 2026, Christoph Sagemüller joins MANN+HUMMEL as CMO and Executive Leadership Committee member, arriving from Mercedes-AMG Motorsport.",
+      "source": "MANN+HUMMEL",
+      "sourceUrl": "https://www.mann-hummel.com/en/filtration-company/news-press/2026/mann-hummel-appoints-christoph-sagemueller-as-chief-marketing-officer.html",
+      "isPromotion": true,
+      "promotionPerson": "Christoph Sagemüller",
+      "congratsMessage": "Congratulations to Christoph Sagemüller on becoming CMO of MANN+HUMMEL — on behalf of FuturisticBD! 🎊",
+      "tags": [
+        "MANN+HUMMEL",
+        "CMO",
+        "automotive"
+      ]
+    },
+    {
+      "id": "gl-004-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "industry",
+      "headline": "Global AdTech Market Reaches $1.12 Trillion in 2026",
+      "summary": "The global AdTech market was valued at $1,117.97 billion in 2026, up from $986.87 billion in 2025, while the AI-powered advertising tools market is projected at $14.12 billion.",
+      "source": "Industry Digest / Wonderful Machine",
+      "sourceUrl": "https://wonderfulmachine.com/article/industry-digest-10-july-2026/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "adtech",
+        "market size",
+        "AI advertising"
+      ]
+    },
+    {
+      "id": "gl-005-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "trend",
+      "headline": "Amazon Debuts Alexa+ Agentic Ads at Cannes Lions",
+      "summary": "At Cannes Lions, Amazon introduced Alexa+ Agentic Ads, an LLM-powered format that lets consumers complete purchases through natural conversation without leaving the ad.",
+      "source": "Ad Age",
+      "sourceUrl": "https://adage.com/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Amazon",
+        "agentic AI",
+        "Cannes Lions"
+      ]
+    },
+    {
+      "id": "gl-006-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "industry",
+      "headline": "Meta Expands Threads Ads and Rolls Out AI Assistant to All Advertisers",
+      "summary": "Meta expanded Threads' static carousel and video ads globally and added Instagram Reels post-view ad formats, while rolling its Meta AI business assistant out to every advertiser worldwide.",
+      "source": "Marketing Dive",
+      "sourceUrl": "https://www.marketingdive.com/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "Meta",
+        "Threads",
+        "AI assistant"
+      ]
+    },
+    {
+      "id": "gl-007-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "trend",
+      "headline": "TikTok Launches AI Branded Microdramas and Growth Max Tool",
+      "summary": "TikTok introduced AI-powered branded microdramas letting brands publish short-form series and earn revenue, alongside Growth Max, a new tool to accelerate user conversion.",
+      "source": "BestMediaInfo",
+      "sourceUrl": "https://bestmediainfo.com/mediainfo/advertising/top-advertising-marketing-and-media-news-headlines-of-today-july-7-2026-12140634",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "TikTok",
+        "AI content",
+        "short-form video"
+      ]
+    },
+    {
+      "id": "gl-008-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "trend",
+      "headline": "AI-First Search Matures as Zero-Click Results Dominate",
+      "summary": "About 68% of US Google searches now end without a click to any website, with AI Overviews linked to a roughly 58% drop in click-through for top-ranking pages.",
+      "source": "b2the7",
+      "sourceUrl": "https://www.b2the7.com/news-blog/marketing-trends-july-2026-ai-search-tiktok-data",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "AI search",
+        "SEO",
+        "zero-click"
+      ]
+    },
+    {
+      "id": "gl-009-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "industry",
+      "headline": "Ad Agencies Face Complaints Over 'Brand Safety' Standards Collusion",
+      "summary": "Advertising agencies faced complaints alleging unlawful collusion to impose common brand-safety standards across the digital advertising industry, raising antitrust concerns.",
+      "source": "Ad Age",
+      "sourceUrl": "https://adage.com/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "brand safety",
+        "antitrust",
+        "agencies"
+      ]
+    },
+    {
+      "id": "gl-010-2026-07-17",
+      "date": "2026-07-17",
+      "region": "global",
+      "category": "marketing",
+      "headline": "Marketers Warn AI Creative Risks Making Brands Look the Same",
+      "summary": "Three in four marketers say they're concerned AI-generated creative is homogenizing brand identity, and 86% report already seeing AI outputs resembling competitors' content.",
+      "source": "Seafoam Media",
+      "sourceUrl": "https://seafoammedia.com/july-2026-marketing-news/",
+      "isPromotion": false,
+      "promotionPerson": null,
+      "congratsMessage": null,
+      "tags": [
+        "AI creative",
+        "brand identity",
+        "marketing trends"
+      ]
+    },
     {
       "id": "bd-001-2026-07-10",
       "date": "2026-07-10",
