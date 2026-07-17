@@ -12,7 +12,8 @@ from html import unescape
 # ─── CONFIG ──────────────────────────────────────────────────────────────────
 GH_USER  = "Futuristicbd"
 GH_REPO  = "futuristicbd-newsroom"
-GH_FILE  = "news-data.json"
+# Served by Vite from the build output root at /news-data.json
+GH_FILE  = "public/news-data.json"
 SITE_URL = "https://futuristicbd-newsroom.vercel.app"
 
 # ─── KEYWORD MAPS ────────────────────────────────────────────────────────────
