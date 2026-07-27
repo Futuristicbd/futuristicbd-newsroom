@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="dashboard.css" />
+    <title>Group Insight — Dashboard</title>
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand"><span class="logo">GI</span> Group Insight</div>
+      <div class="topbar-controls">
+        <select id="groupSelect" class="ctl"></select>
+        <button id="refreshBtn" class="ctl btn">↻ Refresh</button>
+        <div class="menu">
+          <button class="ctl btn" id="exportBtn">⇩ Export ▾</button>
+          <div class="menu-list" id="exportMenu">
+            <a href="#" data-x="posts-csv">Posts → CSV</a>
+            <a href="#" data-x="posts-json">Posts → JSON</a>
+            <a href="#" data-x="comments-csv">Comments → CSV</a>
+            <a href="#" data-x="comments-json">Comments → JSON</a>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <section class="filters">
+      <input type="search" id="fSearch" class="ctl grow" placeholder="Search posts, authors, keywords…" />
+      <input type="date" id="fFrom" class="ctl" title="From date" />
+      <input type="date" id="fTo" class="ctl" title="To date" />
+      <label class="inline">min eng.
+        <input type="number" id="fMinEng" class="ctl narrow" min="0" value="0" />
+      </label>
+      <select id="fMedia" class="ctl">
+        <option value="">any media</option>
+        <option value="photo">has photo</option>
+        <option value="video">has video</option>
+        <option value="link">has link</option>
+        <option value="text">text only</option>
+      </select>
+      <select id="fSort" class="ctl">
+        <option value="viralScore">Sort: Viral</option>
+        <option value="engagementScore">Sort: Engagement</option>
+        <option value="reactions">Sort: Reactions</option>
+        <option value="commentCount">Sort: Comments</option>
+        <option value="shareCount">Sort: Shares</option>
+        <option value="timestamp">Sort: Newest</option>
+        <option value="timestamp_asc">Sort: Oldest</option>
+      </select>
+      <button id="clearFilters" class="ctl btn ghost">Clear</button>
+    </section>
+
+    <nav class="tabs">
+      <button class="tab active" data-tab="overview">Overview</button>
+      <button class="tab" data-tab="posts">Posts</button>
+      <button class="tab" data-tab="viral">Viral</button>
+      <button class="tab" data-tab="topics">Topics</button>
+      <button class="tab" data-tab="authors">Authors</button>
+      <button class="tab" data-tab="comments">Comments</button>
+    </nav>
+
+    <main id="view"><div class="empty">Loading…</div></main>
+
+    <footer class="foot">
+      <span id="footInfo"></span>
+      <span class="muted">All data is stored locally in your browser. Nothing is uploaded.</span>
+    </footer>
+
+    <div id="modal" class="modal hidden">
+      <div class="modal-card">
+        <button class="modal-x" id="modalX">×</button>
+        <div id="modalBody"></div>
+      </div>
+    </div>
+
+    <script src="../lib/db.js"></script>
+    <script src="../lib/analyzer.js"></script>
+    <script src="dashboard.js"></script>
+  </body>
+</html>
