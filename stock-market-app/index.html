@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>DSE Tracker — Dhaka Stock Exchange</title>
+  <meta name="description" content="A simple live-style dashboard for the Dhaka Stock Exchange (DSE): indices, top movers, and a searchable stock table." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header class="topbar">
+      <div class="brand">
+        <div class="logo">DSE</div>
+        <div class="brand-text">
+          <h1>DSE Tracker</h1>
+          <p>Dhaka Stock Exchange</p>
+        </div>
+      </div>
+      <div class="topbar-right">
+        <div class="market-status" id="marketStatus">
+          <span class="dot"></span>
+          <span class="label">—</span>
+        </div>
+        <div class="updated">Updated <span id="lastUpdated">—</span></div>
+        <button id="themeToggle" class="icon-btn" title="Toggle theme" aria-label="Toggle theme">☾</button>
+      </div>
+    </header>
+
+    <!-- Index cards -->
+    <section class="indices" id="indices" aria-label="Market indices"></section>
+
+    <!-- Market breadth -->
+    <section class="breadth" id="breadth" aria-label="Market breadth"></section>
+
+    <!-- Movers -->
+    <section class="movers">
+      <div class="mover-card">
+        <h2>Top Gainers</h2>
+        <ul class="mover-list" id="gainers"></ul>
+      </div>
+      <div class="mover-card">
+        <h2>Top Losers</h2>
+        <ul class="mover-list" id="losers"></ul>
+      </div>
+    </section>
+
+    <!-- Stock table -->
+    <section class="table-section">
+      <div class="table-controls">
+        <h2>All Stocks</h2>
+        <div class="controls-right">
+          <input type="search" id="search" placeholder="Search symbol or company…" autocomplete="off" />
+          <select id="sectorFilter" aria-label="Filter by sector"></select>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="stockTable">
+          <thead>
+            <tr>
+              <th class="col-star"></th>
+              <th data-sort="symbol" class="sortable">Symbol</th>
+              <th data-sort="name" class="sortable hide-sm">Company</th>
+              <th data-sort="ltp" class="sortable num">LTP (৳)</th>
+              <th data-sort="change" class="sortable num">Change</th>
+              <th data-sort="pct" class="sortable num">%</th>
+              <th data-sort="volume" class="sortable num hide-sm">Volume</th>
+            </tr>
+          </thead>
+          <tbody id="stockBody"></tbody>
+        </table>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <p>Sample/illustrative data for demonstration only — not live market prices or investment advice.</p>
+    </footer>
+  </div>
+
+  <!-- Detail modal -->
+  <div class="modal-overlay" id="modalOverlay" hidden>
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="modalSymbol">
+      <button class="modal-close" id="modalClose" aria-label="Close">✕</button>
+      <div class="modal-head">
+        <div>
+          <h3 id="modalSymbol">—</h3>
+          <p id="modalName">—</p>
+          <span class="sector-tag" id="modalSector">—</span>
+        </div>
+        <div class="modal-price">
+          <div class="ltp" id="modalLtp">—</div>
+          <div class="chg" id="modalChg">—</div>
+        </div>
+      </div>
+      <canvas id="modalChart" width="640" height="220"></canvas>
+      <div class="modal-stats" id="modalStats"></div>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
